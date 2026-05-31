@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Customer_Name,Order_Date,Product,Category,Quantity,Unit_Price,Sales,Profit,Payment_Method,City,Order_Status
+ORD10001,99942679,Alexis Dillon,05-02-2025,Smartphone,Electronics,1,36548,36548,11934.11,Cash on Delivery,Mumbai,Returned
+ORD10002,99941434,Kelly Mercer,10-05-2025,Laptop,Electronics,1,12780,12780,4273.74,Cash on Delivery,Delhi,Returned
+ORD10003,99943615,Thomas Green,02-01-2025,Office Chair,Furniture,4,77736,310944,98427.08,Net Banking,Bangalore,Cancelled
+ORD10004,99942584,Emily Lane,08-04-2025,Headphones,Electronics,2,44618,89236,32958.15,Debit Card,Kolkata,Cancelled
+ORD10005,99943045,Lorraine Tate,18-05-2025,Smart Watch,Electronics,3,6195,18585,3365.38,Net Banking,Mumbai,Cancelled
+ORD10006,99941750,Kim Moore,18-01-2025,Smart Watch,Electronics,3,76174,228522,78226.15,UPI,Kolkata,Cancelled
+ORD10007,99946977,Luis Novak,27-04-2025,Smartphone,Electronics,2,13738,27476,7857.1,UPI,Bangalore,Cancelled
+ORD10008,99949751,Susan Merritt,13-02-2025,Office Chair,Furniture,3,9858,29574,6425.27,UPI,Delhi,Returned
+ORD10009,99941916,Patrick Montgomery,25-03-2025,Backpack,Fashion,3,73500,220500,73672.46,UPI,Kolkata,Delivered
+ORD10010,99946155,Hannah Hicks,26-05-2025,Running Shoes,Fashion,4,35593,142372,54121.78,UPI,Pune,Returned
+ORD10011,99949830,,05-03-2025,Backpack,Fashion,,19226,76904,24650.5,Debit Card,Pune,Returned
+ORD10012,99949348,Mary Morris,05-02-2025,Smart Watch,Electronics,4,47947,191788,64096.27,Net Banking,Mumbai,Delivered
+ORD10013,99942040,Scott Pacheco,19-04-2025,Smartphone,Electronics,2,21469,42938,6972.11,Net Banking,Hyderabad,Returned
+ORD10014,99942876,Samuel Shannon,03-01-2025,Water Bottle,Accessories,3,73012,219036,31051.88,Cash on Delivery,Kolkata,Cancelled
+ORD10015,99941053,Heather Valencia,27-04-2025,Running Shoes,Fashion,1,38969,38969,10504.89,Debit Card,Chennai,Shipped
+ORD10016,99944258,Rachel Ramos,10-05-2025,Water Bottle,Accessories,1,39617,39617,5843.48,UPI,Bangalore,Shipped
+ORD10017,99941319,James Simpson,06-05-2025,Water Bottle,Accessories,5,574,2870,632.31,Credit Card,Bangalore,Cancelled
+ORD10017,99941319,James Simpson,06-05-2025,Water Bottle,Accessories,5,574,2870,632.31,Credit Card,Bangalore,Cancelled
+ORD10019,99943705,Lauren Peterson,21-05-2025,Water Bottle,Accessories,2,17328,34656,7003.1,Debit Card,Chennai,Returned
+ORD10020,99947118,Jessica Black,13-04-2025,Office Chair,Furniture,5,26865,134325,24999.94,Net Banking,Chennai,Returned
+ORD10021,99944770,Nicole Morgan,06-01-2025,Smartphone,Electronics,2,29951,59902,22810.22,Cash on Delivery,Delhi,Delivered
+ORD10022,99946413,Tammy Chaney,09-01-2025,Smartphone,Electronics,,30507,30507,11585.95,Credit Card,Chennai,Shipped
+ORD10023,99948744,Gregory Jackson,27-05-2025,Desk Lamp,Furniture,4,28580,114320,27234.43,UPI,Kolkata,Returned
+ORD10024,99946804,Keith Jones,21-04-2025,Backpack,Fashion,2,12863,25726,9542.31,Net Banking,Hyderabad,Returned
+ORD10025,99942790,Darrell Cooper,28-03-2025,Laptop,Electronics,1,8444,8444,2357.68,UPI,Delhi,Shipped
+ORD10026,99948579,Amanda Schwartz,13-03-2025,Water Bottle,Accessories,4,18873,75492,20642.19,UPI,Kolkata,Delivered
+ORD10027,99941241,Ricky Lyons,19-05-2025,Coffee Maker,Home Appliances,5,13333,66665,25654.26,Credit Card,Kolkata,Shipped
+ORD10028,99941960,Mr. Ian Shepherd,13-04-2025,Headphones,Electronics,4,64153,256612,65588.1,UPI,Hyderabad,Delivered
+ORD10029,99948973,Megan Fox,23-05-2025,Backpack,Fashion,3,60138,180414,56726.71,UPI,Delhi,Cancelled
+ORD10030,99946138,Marcus Mccoy,16-01-2025,Office Chair,Furniture,1,76414,76414,13699.41,Credit Card,Mumbai,Returned
+ORD10031,99942312,Kristopher Wilkinson,11-05-2025,Water Bottle,Accessories,5,21135,105675,40466.78,UPI,Mumbai,Delivered
+ORD10032,99945033,Nicholas Berger,26-05-2025,Office Chair,Furniture,4,16213,64852,7621.48,Cash on Delivery,Chennai,Delivered
+ORD10033,99949565,Charles Ritter,25-05-2025,Smart Watch,Electronics,1,55448,55448,11244.19,Debit Card,Bangalore,Shipped
+ORD10034,99948491,Robert Lucas,18-03-2025,Running Shoes,Fashion,2,35314,70628,19865.13,Debit Card,Kolkata,Delivered
+ORD10035,99949808,Victoria Gentry,19-01-2025,Laptop,Electronics,4,74292,297168,30064.8,UPI,Chennai,Cancelled
+ORD10036,99945669,Morgan Hubbard,05-04-2025,Headphones,Electronics,3,9516,28548,3888.78,UPI,Hyderabad,Cancelled
+ORD10037,99945905,Brian Lara,22-05-2025,Smart Watch,Electronics,5,1525,7625,1522.26,Credit Card,Delhi,Cancelled
+ORD10038,99944450,Jennifer Middleton,14-03-2025,Smartphone,Electronics,1,73012,73012,25799.93,Debit Card,Delhi,Cancelled
+ORD10039,99942512,Kathleen Welch,14-01-2025,Water Bottle,Accessories,4,33414,133656,17161.3,Net Banking,Kolkata,Cancelled
+ORD10040,99943647,Barry Mendoza,09-03-2025,Laptop,Electronics,1,44219,44219,7458.16,Net Banking,Chennai,Returned
+ORD10041,99949938,Larry Morgan,08-02-2025,Water Bottle,Accessories,1,15163,15163,5722.92,Credit Card,Kolkata,Cancelled
+ORD10042,99946050,David Romero,11-01-2025,Smart Watch,Electronics,5,19910,99550,26984.42,Debit Card,Kolkata,Delivered
+ORD10043,99947658,Patricia Melendez,01-04-2025,Running Shoes,Fashion,2,33206,66412,13277.09,Cash on Delivery,Pune,Shipped
+ORD10044,99943938,Bethany Lyons,07-01-2025,Office Chair,Furniture,2,23706,47412,6427.89,Debit Card,Kolkata,Returned
+ORD10045,99947267,Charles Thompson,28-01-2025,Office Chair,Furniture,3,21366,64098,10498.46,Credit Card,Kolkata,Returned
+ORD10046,99944652,Sarah Charles,28-02-2025,Office Chair,Furniture,2,60832,121664,35903.35,Credit Card,Pune,Shipped
+ORD10047,99946753,Kelly Edwards,13-03-2025,Backpack,Fashion,3,37017,111051,15624.22,Cash on Delivery,Hyderabad,Cancelled
+ORD10048,99941626,Jill Johnson,09-03-2025,Laptop,Electronics,1,34737,34737,12033.93,Credit Card,Chennai,Returned
+ORD10049,99942894,Gabrielle Lopez,11-05-2025,Running Shoes,Fashion,3,57699,173097,37758.92,Net Banking,Chennai,Shipped
+ORD10050,99944228,David Orr,18-05-2025,Desk Lamp,Furniture,1,57654,57654,23032.35,Debit Card,Hyderabad,Delivered
+ORD10051,99945920,Adam Howell,01-02-2025,Running Shoes,Fashion,5,41645,208225,41849.84,Cash on Delivery,Bangalore,Returned
+ORD10052,99947888,Jason Henderson,19-02-2025,Running Shoes,Fashion,4,39252,157008,36689.04,Net Banking,Pune,Shipped
+ORD10053,99945978,Kirsten Garcia,01-01-2025,Smart Watch,Electronics,5,39946,199730,55560.38,Debit Card,Delhi,Returned
+ORD10054,99944501,Julie Sparks,24-04-2025,Smart Watch,Electronics,5,42737,213685,55665.7,Cash on Delivery,Hyderabad,Shipped
+ORD10055,99942530,Lori Long,27-03-2025,Smartphone,Electronics,3,68061,204183,41008.9,UPI,Pune,Cancelled
+ORD10056,99948784,David Carpenter,04-03-2025,Office Chair,Furniture,2,19813,39626,15560.04,Cash on Delivery,Kolkata,Delivered
+ORD10057,99949099,Nicole Gomez,09-04-2025,Coffee Maker,Home Appliances,4,75954,303816,103804.64,Net Banking,Delhi,Shipped
+ORD10058,99948611,Angela Garcia,13-05-2025,Laptop,Electronics,1,56224,56224,18798.36,Credit Card,Chennai,Shipped
+ORD10059,99946198,Louis Duffy,16-05-2025,Smartphone,Electronics,4,17977,71908,11474.72,Net Banking,Chennai,Returned
+ORD10060,99948373,Grant Reed,02-05-2025,Water Bottle,Accessories,4,21361,85444,15115.33,Debit Card,Kolkata,Shipped
+ORD10061,99948206,Shawn Underwood,12-03-2025,Desk Lamp,Furniture,5,64017,320085,67850.17,Credit Card,Pune,Cancelled
+ORD10062,99942320,Kyle Whitaker,19-05-2025,Office Chair,Furniture,3,44520,133560,40613.88,UPI,Delhi,Shipped
+ORD10063,99946421,Andrea Wright,15-04-2025,Backpack,Fashion,2,28543,57086,21734.43,Cash on Delivery,Hyderabad,Returned
+ORD10064,99941320,Victor Hopkins,30-05-2025,Laptop,Electronics,2,55569,111138,31469.5,Cash on Delivery,Hyderabad,Returned
+ORD10065,99949818,Jennifer Thomas,18-04-2025,Laptop,Electronics,3,39639,118917,20686.5,Cash on Delivery,Kolkata,Shipped
+ORD10066,99947371,Warren Rodriguez,08-01-2025,Coffee Maker,Home Appliances,2,36274,72548,19533.49,Debit Card,Pune,Returned
+ORD10067,99941441,Victoria James,17-05-2025,Headphones,Electronics,4,17228,68912,7289.75,Net Banking,Chennai,Delivered
+ORD10068,99941823,Lisa Conrad,16-02-2025,Smartphone,Electronics,4,18286,73144,10236.11,Debit Card,Hyderabad,Cancelled
+ORD10069,99945558,Howard Beck,08-04-2025,Office Chair,Furniture,4,43340,173360,51791.27,Net Banking,Bangalore,Delivered
+ORD10070,99944673,Michele Bowen,31-03-2025,Coffee Maker,Home Appliances,1,71202,71202,27368.22,Credit Card,Kolkata,Delivered
+ORD10071,99944908,Michael Jackson,09-02-2025,Laptop,Electronics,2,26630,53260,7894.8,UPI,Hyderabad,Delivered
+ORD10072,99943749,Michelle Johnson,05-04-2025,Smart Watch,Electronics,2,61452,122904,23371.49,Cash on Delivery,Chennai,Delivered
+ORD10073,99947149,Jeffrey Simmons,21-03-2025,Headphones,Electronics,3,14668,44004,9962.27,Net Banking,Pune,Shipped
+ORD10074,99942983,Susan Woods,19-03-2025,Smartphone,Electronics,5,32330,161650,59718.3,Cash on Delivery,Kolkata,Delivered
+ORD10075,99949289,Michael Baker,18-01-2025,Running Shoes,Fashion,5,56648,283240,57085.21,Debit Card,Mumbai,Returned
+ORD10076,99943506,Donna Russell,28-04-2025,Coffee Maker,Home Appliances,1,57322,57322,6406.52,Net Banking,Delhi,Cancelled
+ORD10077,99946280,Benjamin Ortiz,10-03-2025,Smart Watch,Electronics,5,63872,319360,83205.37,UPI,Kolkata,Delivered
+ORD10078,99947209,Theresa Lowery,26-05-2025,Desk Lamp,Furniture,4,32463,129852,22705.55,Debit Card,Mumbai,Returned
+ORD10079,99946576,Vicki Robinson,08-03-2025,Running Shoes,Fashion,2,64404,128808,43326.38,Debit Card,Chennai,Cancelled
+ORD10080,99944954,Jamie Wright,22-01-2025,Water Bottle,Accessories,1,68215,68215,7884.37,Net Banking,Hyderabad,Shipped
+ORD10081,99945820,Jeremy Mcbride,24-01-2025,Coffee Maker,Home Appliances,4,59243,236972,38417.93,UPI,Hyderabad,Shipped
+ORD10082,99946632,Anthony Miller,16-05-2025,Desk Lamp,Furniture,5,48868,244340,63045.06,Net Banking,Pune,Cancelled
+ORD10083,99942976,Renee Barton,01-03-2025,Running Shoes,Fashion,4,36009,144036,44364.98,UPI,Bangalore,Delivered
+ORD10084,99945530,Mary Mason,04-05-2025,Water Bottle,Accessories,2,25605,51210,17159.68,Cash on Delivery,Kolkata,Cancelled
+ORD10085,99945952,John Jones,15-02-2025,Smartphone,Electronics,2,39329,78658,26095.19,Credit Card,Pune,Shipped
+ORD10086,99949042,Randall Hughes,02-02-2025,Desk Lamp,Furniture,1,7646,7646,1789.11,Credit Card,Kolkata,Delivered
+ORD10087,99944020,Alex Barrera,29-03-2025,Smart Watch,Electronics,3,62024,186072,47706.21,Credit Card,Bangalore,Returned
+ORD10088,99941878,Monica Yang,28-05-2025,Smartphone,Electronics,1,53021,53021,13386.53,UPI,Delhi,Cancelled
+ORD10089,99944697,Linda Bryan,17-04-2025,Smartphone,Electronics,2,16025,32050,7454.13,Cash on Delivery,Hyderabad,Returned
+ORD10090,99941986,Julie Mcgee,20-03-2025,Coffee Maker,Home Appliances,3,77639,232917,23988.27,Cash on Delivery,Pune,Delivered
+ORD10091,99944929,Timothy Thompson,10-02-2025,Office Chair,Furniture,2,35187,70374,14206.51,UPI,Chennai,Delivered
+ORD10092,99945771,Jessica Wells,01-05-2025,Headphones,Electronics,1,54045,54045,14313.76,Credit Card,Delhi,Cancelled
+ORD10093,99944241,Steven Salinas,09-03-2025,Desk Lamp,Furniture,4,9829,39316,7618.83,Net Banking,Mumbai,Shipped
+ORD10094,99946039,Paul Cline,12-02-2025,Headphones,Electronics,3,19143,57429,21741.3,Cash on Delivery,Pune,Cancelled
+ORD10095,99945460,Steven Baker,14-04-2025,Coffee Maker,Home Appliances,1,61933,61933,11977.63,Cash on Delivery,Chennai,Returned
+ORD10096,99946280,Terry Riley,21-04-2025,Coffee Maker,Home Appliances,1,78885,78885,30610.67,Cash on Delivery,Bangalore,Delivered
+ORD10097,99945415,Elizabeth Lara,06-01-2025,Smartphone,Electronics,2,75892,151784,33978.84,Cash on Delivery,Mumbai,Shipped
+ORD10098,99948141,Michael Murray,16-02-2025,Coffee Maker,Home Appliances,5,58463,292315,36591.45,Net Banking,Mumbai,Returned
+ORD10099,99943634,Molly Mckenzie DDS,27-01-2025,Running Shoes,Fashion,4,44187,176748,53675.28,Debit Card,Hyderabad,Returned
+ORD10100,99946153,Steven Jones,23-01-2025,Desk Lamp,Furniture,4,72602,290408,112966.06,Debit Card,Bangalore,Delivered
+ORD10101,99948569,Kayla James,19-05-2025,Backpack,Fashion,5,650,3250,658.78,Net Banking,Mumbai,Shipped
+ORD10102,99944335,Kenneth Brown,14-01-2025,Water Bottle,Accessories,3,65838,197514,41947.51,Debit Card,Chennai,Shipped
+ORD10103,99943594,Matthew Johnson,03-03-2025,Desk Lamp,Furniture,4,64032,256128,93121.01,Debit Card,Chennai,Delivered
+ORD10104,99948560,Ariel Bates,30-01-2025,Water Bottle,Accessories,4,12717,50868,16918.18,Credit Card,Pune,Shipped
+ORD10105,99948905,Ms. Shannon Roberts,17-04-2025,Coffee Maker,Home Appliances,3,67198,201594,37975.57,Net Banking,Delhi,Returned
+ORD10106,99943236,Mark Rodriguez,11-05-2025,Water Bottle,Accessories,2,50777,101554,34814.43,Credit Card,Bangalore,Returned
+ORD10107,99945891,Kaitlyn Cole,14-03-2025,Running Shoes,Fashion,5,35518,177590,27319.59,Cash on Delivery,Chennai,Returned
+ORD10108,99949903,Amy Huff,27-03-2025,Headphones,Electronics,4,71092,284368,72427.84,Net Banking,Hyderabad,Cancelled
+ORD10109,99941715,Eric Villegas,16-04-2025,Office Chair,Furniture,2,75446,150892,43020.63,Debit Card,Pune,Returned
+ORD10110,99943068,Christine Mccormick,10-01-2025,Backpack,Fashion,4,20436,81744,20550.56,Cash on Delivery,Chennai,Cancelled
+ORD10111,99941251,Richard Mann,27-04-2025,Smartphone,Electronics,4,13569,54276,13146.44,UPI,Hyderabad,Shipped
+ORD10112,99942315,Morgan Jones,12-04-2025,Smartphone,Electronics,4,35237,140948,42063.34,Debit Card,Kolkata,Returned
+ORD10113,99944846,Charles Brandt,18-01-2025,Running Shoes,Fashion,4,71412,285648,111182.85,Debit Card,Delhi,Delivered
+ORD10114,99941474,Michael Beasley,18-03-2025,Backpack,Fashion,1,13673,13673,3649.27,Credit Card,Bangalore,Delivered
+ORD10115,99949702,Maureen Singleton,04-03-2025,Desk Lamp,Furniture,3,49631,148893,40319.33,Net Banking,Chennai,Shipped
+ORD10116,99944945,Douglas Phillips,08-04-2025,Headphones,Electronics,2,10850,21700,4712.21,Net Banking,Chennai,Shipped
+ORD10117,99948622,Logan Adams,03-01-2025,Office Chair,Furniture,4,33789,135156,35428.29,Debit Card,Pune,Shipped
+ORD10118,99947951,Gina Austin,18-03-2025,Smartphone,Electronics,4,45793,183172,18995.76,Debit Card,Hyderabad,Cancelled
+ORD10119,99946881,Lori Mccarthy,08-04-2025,Office Chair,Furniture,4,63835,255340,93966.15,Cash on Delivery,Bangalore,Cancelled
+ORD10120,99949138,Patricia Boyle,13-01-2025,Laptop,Electronics,4,36476,145904,58007.14,Debit Card,Kolkata,Shipped
+ORD10121,99943240,Paul Francis,06-03-2025,Smart Watch,Electronics,3,29205,87615,18312.82,Credit Card,Pune,Delivered
+ORD10122,99942476,James Conway,03-02-2025,Desk Lamp,Furniture,4,4873,19492,4407.68,Debit Card,Bangalore,Returned
+ORD10123,99949697,Edward Ramirez,04-04-2025,Headphones,Electronics,2,17822,35644,5847.26,Cash on Delivery,Bangalore,Shipped
+ORD10124,99942886,Allison Sellers,28-03-2025,Desk Lamp,Furniture,4,39184,156736,27590.58,Net Banking,Mumbai,Shipped
+ORD10125,99941228,Joseph Deleon,12-04-2025,Office Chair,Furniture,4,73548,294192,85394.37,Debit Card,Chennai,Delivered
+ORD10126,99942775,James Spencer,06-04-2025,Coffee Maker,Home Appliances,3,34862,104586,23493.36,UPI,Hyderabad,Delivered
+ORD10127,99942035,Cynthia Jordan,26-02-2025,Smart Watch,Electronics,5,43492,217460,27274.54,Net Banking,Pune,Cancelled
+ORD10128,99945986,Stephanie Kennedy,10-01-2025,Backpack,Fashion,1,18820,18820,7271.97,Net Banking,Mumbai,Delivered
+ORD10129,99949850,Ryan Taylor,05-04-2025,Office Chair,Furniture,5,18281,91405,25904.75,Net Banking,Chennai,Shipped
+ORD10130,99941536,Rachel Garcia,13-03-2025,Backpack,Fashion,1,64639,64639,13917.06,Debit Card,Delhi,Returned
+ORD10131,99949920,Steven Hart,05-04-2025,Coffee Maker,Home Appliances,2,48037,96074,35565.98,Debit Card,Mumbai,Returned
+ORD10132,99942501,David Hart,27-04-2025,Desk Lamp,Furniture,2,16511,33022,3807.33,UPI,Pune,Delivered
+ORD10133,99944362,Gregory Thompson,25-05-2025,Laptop,Electronics,3,32425,97275,10053.73,Credit Card,Kolkata,Shipped
+ORD10134,99941046,Elizabeth Rodriguez,07-02-2025,Smart Watch,Electronics,2,31039,62078,18712.3,Debit Card,Kolkata,Shipped
+ORD10135,99941422,Julia Carter,29-01-2025,Headphones,Electronics,5,33353,166765,26756.75,UPI,Mumbai,Cancelled
+ORD10136,99941858,Nicole Lewis,09-03-2025,Office Chair,Furniture,5,42937,214685,84857.61,UPI,Pune,Returned
+ORD10137,99949408,James Carter,03-04-2025,Water Bottle,Accessories,1,8830,8830,2270.42,Cash on Delivery,Mumbai,Returned
+ORD10138,99945941,Roberto Dillon,14-05-2025,Water Bottle,Accessories,2,6183,12366,2248.47,Net Banking,Pune,Delivered
+ORD10139,99949032,Angela Moreno,28-01-2025,Laptop,Electronics,4,53140,212560,57841.38,Net Banking,Mumbai,Delivered
+ORD10140,99949984,Edward Bryant,12-03-2025,Running Shoes,Fashion,5,19942,99710,37919.25,Debit Card,Hyderabad,Cancelled
+ORD10141,99944522,Kurt Briggs,30-01-2025,Coffee Maker,Home Appliances,5,79854,399270,108178.29,Net Banking,Hyderabad,Shipped
+ORD10142,99946120,Lisa Rhodes,25-01-2025,Backpack,Fashion,3,59941,179823,50418.94,Net Banking,Bangalore,Cancelled
+ORD10143,99942527,Jade Berger,22-01-2025,Running Shoes,Fashion,2,62663,125326,47606.34,Net Banking,Mumbai,Cancelled
+ORD10144,99946400,Judy Andrade,24-05-2025,Headphones,Electronics,5,8361,41805,9366.85,Credit Card,Hyderabad,Cancelled
+ORD10145,99942697,Jessica Trujillo,01-04-2025,Backpack,Fashion,1,38200,38200,8399.3,Cash on Delivery,Chennai,Shipped
+ORD10146,99947022,Anthony Cooper,31-03-2025,Headphones,Electronics,4,29892,119568,17435.11,Credit Card,Kolkata,Cancelled
+ORD10147,99941430,Vincent Fuller,23-05-2025,Smart Watch,Electronics,2,56744,113488,16620.71,Cash on Delivery,Pune,Cancelled
+ORD10148,99946567,William Jones,21-03-2025,Laptop,Electronics,2,36318,72636,13742.03,Debit Card,Mumbai,Shipped
+ORD10149,99942503,Christopher Lopez,08-01-2025,Headphones,Electronics,5,53031,265155,100526.72,Cash on Delivery,Delhi,Returned
+ORD10150,99946314,Rebecca Curtis,21-03-2025,Backpack,Fashion,4,45181,180724,63755.31,Cash on Delivery,Chennai,Delivered
+ORD10151,99942336,Amanda Solis,13-01-2025,Laptop,Electronics,2,21132,42264,7339.96,Debit Card,Hyderabad,Returned
+ORD10152,99949394,Teresa Perez,25-02-2025,Coffee Maker,Home Appliances,5,58439,292195,80571.27,Credit Card,Bangalore,Returned
+ORD10153,99941744,Olivia Aguirre,20-03-2025,Smartphone,Electronics,3,78243,234729,59623.55,UPI,Hyderabad,Delivered
+ORD10154,99945186,Linda Rios,05-02-2025,Laptop,Electronics,2,40007,80014,9313.85,Debit Card,Bangalore,Delivered
+ORD10155,99949725,Justin Pace,08-04-2025,Laptop,Electronics,4,56946,227784,79107.46,UPI,Chennai,Cancelled
+ORD10156,99942275,John West,28-04-2025,Smartphone,Electronics,4,6044,24176,6506.59,Debit Card,Chennai,Returned
+ORD10157,99941341,Alicia Thompson,14-04-2025,Smart Watch,Electronics,4,55247,220988,69201.38,Debit Card,Delhi,Returned
+ORD10158,99948138,Veronica Brewer,04-03-2025,Running Shoes,Fashion,1,57740,57740,8467.84,Cash on Delivery,Hyderabad,Delivered
+ORD10159,99942251,Stacey Buckley,13-02-2025,Backpack,Fashion,3,45000,135000,45026.33,Cash on Delivery,Pune,Delivered
+ORD10160,99946752,Melissa Park,31-03-2025,Water Bottle,Accessories,5,25915,129575,16614.52,UPI,Delhi,Delivered
+ORD10161,99942234,Elizabeth Powell,09-02-2025,Headphones,Electronics,3,26356,79068,27511.73,UPI,Kolkata,Returned
+ORD10162,99946295,Jack Morris,25-05-2025,Coffee Maker,Home Appliances,5,76452,382260,101424.44,Debit Card,Delhi,Returned
+ORD10163,99941920,Laurie Morgan,12-03-2025,Smartphone,Electronics,4,58461,233844,49243.91,Debit Card,Chennai,Delivered
+ORD10164,99945703,Nicholas Davis,05-04-2025,Desk Lamp,Furniture,4,59733,238932,92877.13,Credit Card,Pune,Delivered
+ORD10165,99941672,Peter Combs,29-05-2025,Smart Watch,Electronics,5,66962,334810,95305.43,Net Banking,Kolkata,Shipped
+ORD10166,99948381,Mark Lin,16-01-2025,Running Shoes,Fashion,5,62841,314205,78422.37,Credit Card,Kolkata,Cancelled
+ORD10167,99948199,Jimmy Munoz,23-04-2025,Smartphone,Electronics,5,23117,115585,44876.73,Cash on Delivery,Chennai,Shipped
+ORD10168,99941857,Amy Huber,28-03-2025,Running Shoes,Fashion,3,37579,112737,31991.95,Debit Card,Mumbai,Cancelled
+ORD10169,99946461,Brittney Orozco,08-02-2025,Smartphone,Electronics,5,51167,255835,80525.58,Credit Card,Chennai,Shipped
+ORD10170,99946072,Matthew Benjamin,22-01-2025,Running Shoes,Fashion,3,51874,155622,56228.49,Cash on Delivery,Hyderabad,Cancelled
+ORD10171,99949331,Amy Garcia,19-04-2025,Headphones,Electronics,5,12749,63745,13143.74,Debit Card,Mumbai,Cancelled
+ORD10172,99944145,Roy Walker,05-05-2025,Desk Lamp,Furniture,2,28574,57148,17000.4,UPI,Delhi,Shipped
+ORD10173,99949626,Marvin Hill,19-05-2025,Smartphone,Electronics,3,13756,41268,10221.8,Credit Card,Pune,Cancelled
+ORD10174,99943962,Amber Stewart,11-02-2025,Smart Watch,Electronics,2,78782,157564,45218.35,Cash on Delivery,Kolkata,Shipped
+ORD10175,99948277,Steven Rogers,02-03-2025,Coffee Maker,Home Appliances,1,54352,54352,15800.68,Cash on Delivery,Bangalore,Returned
+ORD10176,99944178,Scott Copeland,01-05-2025,Office Chair,Furniture,5,31848,159240,48912.1,Debit Card,Pune,Returned
+ORD10177,99943655,Joshua Terrell,18-04-2025,Coffee Maker,Home Appliances,3,50552,151656,37781.75,UPI,Kolkata,Shipped
+ORD10178,99942680,Latoya Anderson,22-05-2025,Desk Lamp,Furniture,1,63491,63491,8746.83,Cash on Delivery,Kolkata,Delivered
+ORD10179,99943414,Jacqueline Craig,12-05-2025,Desk Lamp,Furniture,1,21512,21512,6844.31,Net Banking,Mumbai,Shipped
+ORD10180,99949224,Mathew Bryant,12-04-2025,Coffee Maker,Home Appliances,3,3995,11985,3302.24,Debit Card,Delhi,Returned
+ORD10181,99946493,Valerie Ray,26-01-2025,Smartphone,Electronics,3,29930,89790,35156.71,UPI,Delhi,Delivered
+ORD10182,99948349,Andrew Aguilar,01-05-2025,Desk Lamp,Furniture,4,18691,74764,12885.4,Cash on Delivery,Mumbai,Delivered
+ORD10183,99949647,Jessica Adams,21-05-2025,Laptop,Electronics,3,28766,86298,12902.51,Net Banking,Mumbai,Cancelled
+ORD10184,99948489,Breanna Flores,18-04-2025,Office Chair,Furniture,3,16470,49410,19056.21,Credit Card,Mumbai,Returned
+ORD10185,99944963,Leah Williams,28-05-2025,Smart Watch,Electronics,5,2654,13270,2792.19,UPI,Bangalore,Returned
+ORD10186,99944068,George Baker,17-04-2025,Laptop,Electronics,5,46744,233720,76620.6,Credit Card,Chennai,Cancelled
+ORD10187,99941333,Jonathan Wheeler,10-05-2025,Smartphone,Electronics,5,71813,359065,88976.91,Net Banking,Kolkata,Returned
+ORD10188,99946850,Gail Pittman,05-01-2025,Laptop,Electronics,4,49429,197716,64041.19,Credit Card,Bangalore,Shipped
+ORD10189,99949945,Austin Smith,01-04-2025,Smartphone,Electronics,5,44083,220415,79344.36,Debit Card,Kolkata,Shipped
+ORD10190,99948498,Timothy Evans,17-01-2025,Coffee Maker,Home Appliances,4,24391,97564,15273.71,Credit Card,Bangalore,Shipped
+ORD10191,99949444,Melissa Young,21-03-2025,Laptop,Electronics,2,5992,11984,3658.97,Net Banking,Kolkata,Returned
+ORD10192,99946438,Tammy Gutierrez,13-01-2025,Desk Lamp,Furniture,1,25548,25548,8026.33,Debit Card,Mumbai,Cancelled
+ORD10193,99946554,Nicholas Williams,09-04-2025,Backpack,Fashion,4,58137,232548,30605.35,UPI,Hyderabad,Returned
+ORD10194,99942293,Mathew Castillo,19-04-2025,Running Shoes,Fashion,5,35459,177295,28306.13,Net Banking,Chennai,Shipped
+ORD10195,99945843,Timothy Wolfe,25-03-2025,Water Bottle,Accessories,3,42601,127803,47187.5,Debit Card,Hyderabad,Returned
+ORD10196,99948126,Elizabeth Graham,01-04-2025,Headphones,Electronics,4,46577,186308,49532.05,Debit Card,Pune,Delivered
+ORD10197,99941510,Vicki Woods,10-02-2025,Smartphone,Electronics,4,48119,192476,47363.38,UPI,Kolkata,Returned
+ORD10198,99946933,Stacy Rogers,04-04-2025,Laptop,Electronics,2,9312,18624,6131.05,Net Banking,Chennai,Delivered
+ORD10199,99948273,Gina Johnson,06-04-2025,Smart Watch,Electronics,2,59472,118944,13720.54,Credit Card,Chennai,Shipped
+ORD10200,99945089,Ashley Abbott,13-03-2025,Water Bottle,Accessories,3,52671,158013,48302.1,Credit Card,Mumbai,Shipped
+ORD10201,99945288,Mathew Parker,31-01-2025,Coffee Maker,Home Appliances,5,51223,256115,32254.42,Debit Card,Pune,Returned
+ORD10202,99944279,Carol Davis,06-05-2025,Office Chair,Furniture,5,37931,189655,36376.93,Credit Card,Delhi,Delivered
+ORD10203,99946692,Kimberly Dunn,23-03-2025,Coffee Maker,Home Appliances,2,58841,117682,11864.85,Credit Card,Chennai,Cancelled
+ORD10204,99944673,Anthony Simmons,11-05-2025,Desk Lamp,Furniture,2,23318,46636,7549.95,Credit Card,Delhi,Shipped
+ORD10205,99947044,Lacey Cox,27-05-2025,Office Chair,Furniture,4,3945,15780,4603.52,Net Banking,Kolkata,Shipped
+ORD10206,99949612,Cameron Williams,03-05-2025,Smart Watch,Electronics,1,9117,9117,2800.86,Net Banking,Kolkata,Returned
+ORD10207,99948372,Elizabeth Cannon,19-01-2025,Smart Watch,Electronics,1,16926,16926,1832.85,Net Banking,Pune,Cancelled
+ORD10208,99948088,William Holland,03-02-2025,Headphones,Electronics,5,77542,387710,133919.32,Cash on Delivery,Kolkata,Delivered
+ORD10209,99946286,Erica Porter,11-02-2025,Smartphone,Electronics,5,20556,102780,31734.62,UPI,Bangalore,Cancelled
+ORD10210,99945496,Sara Watson,22-05-2025,Smartphone,Electronics,3,26229,78687,16483.58,UPI,Pune,Cancelled
+ORD10211,99943526,Jesse Flynn,13-02-2025,Smart Watch,Electronics,5,12745,63725,15882.06,UPI,Pune,Cancelled
+ORD10212,99945336,Benjamin Shelton,28-05-2025,Smart Watch,Electronics,1,4218,4218,1584.42,UPI,Kolkata,Returned
+ORD10213,99945745,Jessica Wolf,20-05-2025,Smart Watch,Electronics,1,65778,65778,8768.27,Debit Card,Hyderabad,Shipped
+ORD10214,99943589,Lisa Clark,16-01-2025,Backpack,Fashion,3,59946,179838,67998.2,Net Banking,Hyderabad,Returned
+ORD10215,99946231,Kim Brown,22-03-2025,Coffee Maker,Home Appliances,2,45089,90178,19658.98,Debit Card,Hyderabad,Shipped
+ORD10216,99948642,Jacqueline Cortez,03-03-2025,Running Shoes,Fashion,5,74116,370580,136427.11,Credit Card,Bangalore,Returned
+ORD10217,99947850,Ashlee Rodriguez,09-04-2025,Office Chair,Furniture,2,13189,26378,10150.74,UPI,Kolkata,Shipped
+ORD10218,99949163,Marcus Ford,10-02-2025,Running Shoes,Fashion,5,41488,207440,71162.24,Cash on Delivery,Hyderabad,Returned
+ORD10219,99949281,Jennifer Kaiser,11-04-2025,Desk Lamp,Furniture,4,3537,14148,5277,Net Banking,Delhi,Shipped
+ORD10220,99948710,Megan Walker,07-05-2025,Smart Watch,Electronics,3,6877,20631,7939.59,Debit Card,Chennai,Delivered
+ORD10221,99947606,Kimberly Morgan,04-04-2025,Smartphone,Electronics,4,18055,72220,9768.71,Debit Card,Mumbai,Returned
+ORD10222,99945728,Connie Martin,22-05-2025,Laptop,Electronics,5,74138,370690,126628.97,Credit Card,Hyderabad,Returned
+ORD10223,99947453,Jay Gardner,25-01-2025,Water Bottle,Accessories,3,16072,48216,17425.31,Debit Card,Kolkata,Cancelled
+ORD10224,99947576,Martin Owens,11-05-2025,Water Bottle,Accessories,3,19409,58227,19813.64,Cash on Delivery,Mumbai,Delivered
+ORD10225,99948487,Jennifer Huynh,13-05-2025,Laptop,Electronics,2,44152,88304,14023.58,UPI,Chennai,Shipped
+ORD10226,99946511,Veronica Shaffer,18-03-2025,Running Shoes,Fashion,5,42250,211250,74201.43,Cash on Delivery,Kolkata,Returned
+ORD10227,99946427,Matthew Lowery,05-04-2025,Smart Watch,Electronics,3,62745,188235,29228.26,Credit Card,Hyderabad,Cancelled
+ORD10228,99944728,John Lee,29-05-2025,Laptop,Electronics,5,62705,313525,100434.87,Credit Card,Chennai,Returned
+ORD10229,99941517,Diane Benson,04-03-2025,Headphones,Electronics,5,50332,251660,89507.23,Cash on Delivery,Pune,Delivered
+ORD10230,99947765,Sonya Andrews,08-02-2025,Office Chair,Furniture,1,58307,58307,17835.66,UPI,Hyderabad,Returned
+ORD10231,99948837,Mercedes Rogers,25-03-2025,Laptop,Electronics,2,68484,136968,46267.45,Cash on Delivery,Hyderabad,Cancelled
+ORD10232,99945331,James Lopez,01-04-2025,Headphones,Electronics,4,70378,281512,83694.05,Cash on Delivery,Hyderabad,Shipped
+ORD10233,99945735,Adam Marks,18-03-2025,Office Chair,Furniture,3,73649,220947,68593.05,UPI,Pune,Returned
+ORD10234,99945715,Heather Barrera,12-03-2025,Running Shoes,Fashion,4,46218,184872,42863.26,Credit Card,Chennai,Returned
+ORD10235,99942294,Travis Olson,15-03-2025,Backpack,Fashion,3,19698,59094,18488.4,Debit Card,Hyderabad,Cancelled
+ORD10236,99945450,Daniel Simon,11-03-2025,Coffee Maker,Home Appliances,2,26985,53970,8182.63,UPI,Mumbai,Shipped
+ORD10237,99941860,Geoffrey Hall,01-03-2025,Office Chair,Furniture,1,70104,70104,23295.45,Credit Card,Hyderabad,Cancelled
+ORD10238,99943587,Amber Schmidt,21-05-2025,Coffee Maker,Home Appliances,1,18518,18518,7378.41,Net Banking,Pune,Returned
+ORD10239,99942465,David Gregory,16-01-2025,Coffee Maker,Home Appliances,2,38149,76298,23167.86,Cash on Delivery,Delhi,Delivered
+ORD10240,99947504,Deanna Adams,10-01-2025,Headphones,Electronics,4,23540,94160,11282.55,Net Banking,Delhi,Cancelled
+ORD10241,99946489,Crystal Owens,28-01-2025,Laptop,Electronics,1,39610,39610,9094.91,Debit Card,Hyderabad,Returned
+ORD10242,99946417,Michael Todd,29-01-2025,Headphones,Electronics,5,61844,309220,98378,UPI,Pune,Returned
+ORD10243,99944164,Betty Owen,17-03-2025,Desk Lamp,Furniture,2,2346,4692,839.94,UPI,Chennai,Returned
+ORD10244,99944027,Jeffrey Brown,25-01-2025,Backpack,Fashion,5,43482,217410,81306.7,UPI,Hyderabad,Cancelled
+ORD10245,99945374,Samuel Hudson,25-04-2025,Office Chair,Furniture,1,34681,34681,9881.58,Debit Card,Bangalore,Delivered
+ORD10246,99948625,Cindy Randall,31-01-2025,Desk Lamp,Furniture,3,31472,94416,36006.74,Debit Card,Delhi,Returned
+ORD10247,99947021,Brent Garcia,17-03-2025,Water Bottle,Accessories,3,15889,47667,9933.16,Cash on Delivery,Delhi,Shipped
+ORD10248,99947813,Julie Chandler,06-04-2025,Headphones,Electronics,4,20578,82312,21689.74,Cash on Delivery,Hyderabad,Shipped
+ORD10249,99946927,Cindy Cruz,16-05-2025,Office Chair,Furniture,5,11230,56150,13607.84,Credit Card,Chennai,Delivered
+ORD10250,99943455,Sandra Young,18-05-2025,Laptop,Electronics,5,66755,333775,113267.54,UPI,Bangalore,Returned
+ORD10251,99948298,Christine Stanley,11-05-2025,Smartphone,Electronics,2,76934,153868,38982.71,Credit Card,Hyderabad,Shipped
+ORD10252,99948575,Reginald Hubbard,24-05-2025,Water Bottle,Accessories,4,60373,241492,55742.79,Debit Card,Pune,Delivered
+ORD10253,99942196,Tina Dennis,29-05-2025,Backpack,Fashion,3,895,2685,473.25,Credit Card,Hyderabad,Cancelled
+ORD10254,99948734,Tara Mendez,18-01-2025,Smartphone,Electronics,5,8397,41985,5022.46,Credit Card,Bangalore,Returned
+ORD10255,99948348,Daniel Nichols,08-04-2025,Headphones,Electronics,2,55597,111194,31986.26,Net Banking,Hyderabad,Delivered
+ORD10256,99947439,Haley Nguyen,18-05-2025,Water Bottle,Accessories,2,46082,92164,33585.49,Cash on Delivery,Delhi,Shipped
+ORD10257,99947948,Charles King,20-05-2025,Laptop,Electronics,1,39607,39607,10341.34,Cash on Delivery,Hyderabad,Shipped
+ORD10258,99942848,Tara Daniels,18-02-2025,Office Chair,Furniture,4,45871,183484,64854.91,Credit Card,Kolkata,Returned
+ORD10259,99941550,Larry Carson,26-01-2025,Smart Watch,Electronics,1,32044,32044,10836.5,Net Banking,Chennai,Delivered
+ORD10260,99944559,Jonathan Ali,19-05-2025,Office Chair,Furniture,1,53225,53225,14280.86,Credit Card,Delhi,Cancelled
+ORD10261,99944881,Jay Thomas,24-03-2025,Office Chair,Furniture,5,42299,211495,47958.09,Debit Card,Delhi,Shipped
+ORD10262,99947999,Bruce Hernandez,14-02-2025,Backpack,Fashion,3,36564,109692,41870.83,Cash on Delivery,Hyderabad,Delivered
+ORD10263,99947688,Jonathan Nelson,17-04-2025,Running Shoes,Fashion,4,69242,276968,84303.43,UPI,Bangalore,Returned
+ORD10264,99945927,Aaron Lambert,27-02-2025,Headphones,Electronics,5,62565,312825,102515.74,UPI,Kolkata,Returned
+ORD10265,99949683,Mr. Mark Gray,23-05-2025,Laptop,Electronics,5,54590,272950,29932.83,UPI,Hyderabad,Shipped
+ORD10266,99947079,Mike Wood,26-04-2025,Desk Lamp,Furniture,2,43788,87576,18039.63,Credit Card,Chennai,Shipped
+ORD10267,99942192,Tracey Phillips,11-01-2025,Laptop,Electronics,3,49936,149808,29646.77,UPI,Kolkata,Shipped
+ORD10268,99944470,Megan Anderson,04-01-2025,Coffee Maker,Home Appliances,2,44142,88284,27283.6,UPI,Pune,Delivered
+ORD10269,99944921,Alicia Clark,12-04-2025,Coffee Maker,Home Appliances,2,79720,159440,30113.34,Cash on Delivery,Bangalore,Cancelled
+ORD10270,99945285,Antonio Lopez,20-03-2025,Backpack,Fashion,4,70446,281784,57873.81,Debit Card,Chennai,Returned
+ORD10271,99944328,Chris Chavez,23-03-2025,Coffee Maker,Home Appliances,1,62037,62037,10640.05,Debit Card,Bangalore,Returned
+ORD10272,99945272,Mrs. Debra Tran,05-01-2025,Laptop,Electronics,5,29502,147510,26201.36,Cash on Delivery,Chennai,Returned
+ORD10273,99945026,Carla Stokes,08-04-2025,Desk Lamp,Furniture,2,26215,52430,15783.55,Net Banking,Chennai,Cancelled
+ORD10274,99943773,Susan Taylor,01-04-2025,Desk Lamp,Furniture,4,64803,259212,67849.08,UPI,Pune,Returned
+ORD10275,99941794,Kaitlyn Wiley,20-01-2025,Headphones,Electronics,5,8198,40990,9953.06,Credit Card,Hyderabad,Shipped
+ORD10276,99948471,Nancy Grimes,10-05-2025,Office Chair,Furniture,1,20295,20295,8062.34,Debit Card,Mumbai,Returned
+ORD10277,99941194,Chase Watkins,16-04-2025,Coffee Maker,Home Appliances,1,1366,1366,328.3,Credit Card,Chennai,Cancelled
+ORD10278,99943937,Daniel Graham,21-04-2025,Water Bottle,Accessories,3,2746,8238,2054.02,Credit Card,Mumbai,Shipped
+ORD10279,99945379,Caleb Bauer,01-04-2025,Office Chair,Furniture,2,69503,139006,45076.11,Net Banking,Mumbai,Cancelled
+ORD10280,99945914,Phillip Hogan,27-02-2025,Backpack,Fashion,4,74555,298220,97529.16,Credit Card,Pune,Delivered
+ORD10281,99941919,Annette Sharp,02-05-2025,Smartphone,Electronics,4,50210,200840,57610.78,Credit Card,Pune,Shipped
+ORD10282,99942562,Kayla Wells,26-03-2025,Smartphone,Electronics,4,57373,229492,47396.48,Cash on Delivery,Mumbai,Shipped
+ORD10283,99945593,Hannah Stewart,20-01-2025,Office Chair,Furniture,5,62824,314120,100101.09,Cash on Delivery,Chennai,Delivered
+ORD10284,99943362,Cynthia Gomez,31-05-2025,Headphones,Electronics,3,2552,7656,854.1,Net Banking,Mumbai,Cancelled
+ORD10285,99949856,Debra Miller,10-04-2025,Headphones,Electronics,5,32019,160095,36820.45,Debit Card,Hyderabad,Shipped
+ORD10286,99944803,Mr. Richard Simon,22-04-2025,Smartphone,Electronics,5,45832,229160,87972.48,Credit Card,Bangalore,Returned
+ORD10287,99949038,Felicia Novak,26-04-2025,Running Shoes,Fashion,1,36325,36325,5991.28,UPI,Bangalore,Returned
+ORD10288,99945839,Tyler Wyatt,22-01-2025,Backpack,Fashion,2,77291,154582,31194.4,UPI,Pune,Delivered
+ORD10289,99947383,Vanessa Mendoza,09-02-2025,Smartphone,Electronics,3,20714,62142,17772.61,Debit Card,Bangalore,Delivered
+ORD10290,99942674,Benjamin Clements,11-03-2025,Smartphone,Electronics,1,40905,40905,10904.42,UPI,Mumbai,Shipped
+ORD10291,99942692,Christopher Rollins,15-04-2025,Backpack,Fashion,4,73505,294020,68676.6,Credit Card,Mumbai,Cancelled
+ORD10292,99947311,James Hubbard,25-03-2025,Water Bottle,Accessories,1,78740,78740,17369.01,Credit Card,Bangalore,Returned
+ORD10293,99949537,John Hill,04-03-2025,Backpack,Fashion,1,73839,73839,9483.71,UPI,Pune,Returned
+ORD10294,99943390,Curtis Yoder,07-05-2025,Headphones,Electronics,2,35747,71494,22138.88,Credit Card,Delhi,Returned
+ORD10295,99946916,Christopher Kennedy,20-01-2025,Desk Lamp,Furniture,4,39789,159156,40541.9,Debit Card,Delhi,Returned
+ORD10296,99945991,Walter Marks,04-02-2025,Smart Watch,Electronics,5,26130,130650,34314.11,Credit Card,Hyderabad,Cancelled
+ORD10297,99943230,Jason Johnson,21-04-2025,Smart Watch,Electronics,4,43693,174772,46827.21,Debit Card,Bangalore,Shipped
+ORD10298,99945775,Matthew Santana,23-03-2025,Coffee Maker,Home Appliances,3,23783,71349,7893.17,Net Banking,Chennai,Shipped
+ORD10299,99946980,Denise Alexander,11-04-2025,Running Shoes,Fashion,4,37239,148956,23095.87,Credit Card,Chennai,Shipped
+ORD10300,99941440,Craig Jimenez,21-05-2025,Smart Watch,Electronics,5,24083,120415,23539.47,Net Banking,Pune,Shipped
+ORD10301,99949180,Michael Bernard,15-04-2025,Coffee Maker,Home Appliances,3,9564,28692,4427.47,UPI,Pune,Cancelled
+ORD10302,99942211,Terry Dunn,07-04-2025,Office Chair,Furniture,3,20703,62109,11516.81,Net Banking,Chennai,Returned
+ORD10303,99949907,Benjamin Lewis,18-04-2025,Smart Watch,Electronics,4,70540,282160,69980.25,Credit Card,Kolkata,Cancelled
+ORD10304,99946816,John Thompson,05-03-2025,Water Bottle,Accessories,5,11638,58190,21366.74,UPI,Pune,Delivered
+ORD10305,99942735,Whitney Randall,21-04-2025,Smart Watch,Electronics,4,43963,175852,19393.83,Credit Card,Mumbai,Cancelled
+ORD10306,99944621,Emily Henderson,28-05-2025,Office Chair,Furniture,5,68499,342495,79665.01,Net Banking,Bangalore,Returned
+ORD10307,99948909,Robert Turner,07-01-2025,Coffee Maker,Home Appliances,5,66097,330485,117248.32,Credit Card,Bangalore,Returned
+ORD10308,99948460,Kenneth Yu,29-03-2025,Smartphone,Electronics,1,19069,19069,5634.92,UPI,Chennai,Returned
+ORD10309,99946225,Douglas Mcconnell,26-04-2025,Running Shoes,Fashion,4,13295,53180,14281.5,Credit Card,Bangalore,Delivered
+ORD10310,99944996,Nicolas Hull,12-02-2025,Smartphone,Electronics,1,45467,45467,9348.43,Cash on Delivery,Delhi,Shipped
+ORD10311,99947636,Kimberly Ross,01-03-2025,Running Shoes,Fashion,5,56385,281925,31705.63,UPI,Delhi,Returned
+ORD10312,99947370,Joshua Brown,20-04-2025,Backpack,Fashion,1,26363,26363,6989.56,Credit Card,Pune,Shipped
+ORD10313,99944063,Christopher Nelson,18-05-2025,Office Chair,Furniture,3,8700,26100,5919.37,Debit Card,Bangalore,Shipped
+ORD10314,99949646,Brad Lutz,06-05-2025,Coffee Maker,Home Appliances,1,34887,34887,6935.17,Debit Card,Chennai,Returned
+ORD10315,99948501,Chad Snyder,01-04-2025,Smart Watch,Electronics,4,77439,309756,113287.18,Cash on Delivery,Delhi,Cancelled
+ORD10316,99942931,Jeff Hood,22-03-2025,Smart Watch,Electronics,5,11608,58040,11513.22,UPI,Bangalore,Delivered
+ORD10317,99943258,Jessica Garcia,18-04-2025,Headphones,Electronics,3,19028,57084,14085.62,Cash on Delivery,Hyderabad,Returned
+ORD10318,99943733,Steven Oliver,14-02-2025,Headphones,Electronics,4,70935,283740,54469.6,Net Banking,Bangalore,Shipped
+ORD10319,99941157,Nicole Paul,02-04-2025,Headphones,Electronics,3,59613,178839,38303.2,Net Banking,Delhi,Shipped
+ORD10320,99949056,Manuel Williams,15-04-2025,Backpack,Fashion,5,66748,333740,68109.35,Net Banking,Pune,Returned
+ORD10321,99945785,John Crawford,26-02-2025,Coffee Maker,Home Appliances,2,11335,22670,5222.73,Credit Card,Bangalore,Shipped
+ORD10322,99949115,Jennifer Cox,25-05-2025,Water Bottle,Accessories,3,22547,67641,11213.39,Cash on Delivery,Chennai,Delivered
+ORD10323,99949880,Jose Parker,04-04-2025,Smart Watch,Electronics,1,35612,35612,5963.8,Credit Card,Kolkata,Returned
+ORD10324,99945877,Stacie Thomas,05-03-2025,Water Bottle,Accessories,2,56225,112450,41524.98,Credit Card,Hyderabad,Cancelled
+ORD10325,99944882,Charles Rodriguez,31-01-2025,Running Shoes,Fashion,1,58049,58049,8150.83,UPI,Kolkata,Cancelled
+ORD10326,99944390,Melissa Smith,22-02-2025,Smart Watch,Electronics,4,22255,89020,19153.07,Credit Card,Chennai,Cancelled
+ORD10327,99945794,Tina Martinez,24-03-2025,Water Bottle,Accessories,3,78731,236193,56301.19,Debit Card,Chennai,Cancelled
+ORD10328,99941971,Paul Kaufman,16-04-2025,Water Bottle,Accessories,1,18271,18271,2031.16,Debit Card,Kolkata,Shipped
+ORD10329,99947434,Timothy Stafford,05-03-2025,Headphones,Electronics,2,19668,39336,7339.37,Net Banking,Delhi,Cancelled
+ORD10330,99947600,Christina Patterson MD,24-01-2025,Backpack,Fashion,4,59743,238972,90174.92,Cash on Delivery,Pune,Cancelled
+ORD10331,99942526,Terry Walker,01-01-2025,Running Shoes,Fashion,4,64468,257872,77829.18,Net Banking,Pune,Cancelled
+ORD10332,99944470,Patricia Gay,20-04-2025,Smartphone,Electronics,5,52629,263145,88061.74,Net Banking,Bangalore,Cancelled
+ORD10333,99948951,Samuel Costa,25-05-2025,Desk Lamp,Furniture,3,72237,216711,49111.03,Debit Card,Pune,Delivered
+ORD10334,99948230,Ronnie Hancock,10-02-2025,Laptop,Electronics,1,60738,60738,23998.53,Net Banking,Mumbai,Returned
+ORD10335,99942529,Ronald Martinez,12-03-2025,Office Chair,Furniture,2,40066,80132,28231.05,Debit Card,Bangalore,Delivered
+ORD10336,99944836,Kyle Baker,20-03-2025,Running Shoes,Fashion,2,7287,14574,4096.72,Net Banking,Pune,Delivered
+ORD10337,99944705,Anthony Strickland,03-02-2025,Smartphone,Electronics,1,28473,28473,7316.36,Cash on Delivery,Pune,Returned
+ORD10338,99943165,Kelly Brewer,19-04-2025,Laptop,Electronics,1,45532,45532,7051.42,Net Banking,Mumbai,Shipped
+ORD10339,99945902,Adam Young,05-04-2025,Backpack,Fashion,1,13925,13925,5138.88,UPI,Hyderabad,Shipped
+ORD10340,99948210,Erin Howell,12-02-2025,Headphones,Electronics,1,70034,70034,16178.74,Debit Card,Pune,Shipped
+ORD10341,99942646,Kayla Montgomery,23-01-2025,Headphones,Electronics,4,58484,233936,33221.54,UPI,Kolkata,Delivered
+ORD10342,99943290,Laurie Bradford,22-03-2025,Smart Watch,Electronics,4,46576,186304,20684.47,UPI,Bangalore,Delivered
+ORD10343,99941439,Shannon Oneal,14-03-2025,Office Chair,Furniture,5,79274,396370,87200.46,Debit Card,Delhi,Shipped
+ORD10344,99949108,Melissa Wheeler,03-03-2025,Backpack,Fashion,3,7652,22956,3784.52,Net Banking,Mumbai,Shipped
+ORD10345,99946916,Sharon Mccarty,04-01-2025,Coffee Maker,Home Appliances,5,9807,49035,11842.64,Debit Card,Delhi,Returned
+ORD10346,99948717,William Smith,14-02-2025,Smart Watch,Electronics,4,48395,193580,45702.91,Credit Card,Mumbai,Delivered
+ORD10347,99947520,Renee Roberts,16-01-2025,Laptop,Electronics,3,28777,86331,33500.91,Cash on Delivery,Bangalore,Returned
+ORD10348,99943501,Jeremy Gordon,18-05-2025,Backpack,Fashion,4,11303,45212,9396.81,Debit Card,Mumbai,Cancelled
+ORD10349,99949788,Jasmine Bradley,09-02-2025,Smartphone,Electronics,5,27133,135665,14611.93,Debit Card,Hyderabad,Delivered
+ORD10350,99948118,Shawn Benson,23-01-2025,Desk Lamp,Furniture,4,31778,127112,48636.64,Credit Card,Hyderabad,Delivered
+ORD10351,99941185,Andrew Cole,05-02-2025,Desk Lamp,Furniture,2,16155,32310,12801.24,UPI,Hyderabad,Cancelled
+ORD10352,99945403,Dr. Rachel Avila,02-02-2025,Water Bottle,Accessories,5,34480,172400,60324.68,Credit Card,Kolkata,Delivered
+ORD10353,99942262,Scott Davis,09-03-2025,Running Shoes,Fashion,4,36149,144596,35114.23,Net Banking,Hyderabad,Cancelled
+ORD10354,99945179,Michael Lopez,10-02-2025,Laptop,Electronics,4,74802,299208,104703.53,Credit Card,Chennai,Delivered
+ORD10355,99945006,John Peck,04-01-2025,Office Chair,Furniture,5,836,4180,1616.78,Credit Card,Hyderabad,Cancelled
+ORD10356,99947870,Bryan Sullivan,10-01-2025,Backpack,Fashion,2,23956,47912,5780.68,UPI,Bangalore,Shipped
+ORD10357,99947108,Dean Bowman,27-05-2025,Backpack,Fashion,3,36054,108162,16462.35,Credit Card,Chennai,Delivered
+ORD10358,99942129,Jay Cunningham,13-04-2025,Headphones,Electronics,2,68103,136206,14380.06,Net Banking,Kolkata,Cancelled
+ORD10359,99947044,Alexandria Frazier,03-01-2025,Desk Lamp,Furniture,3,11822,35466,8301.62,UPI,Bangalore,Cancelled
+ORD10360,99944201,Carla Jones,07-05-2025,Smart Watch,Electronics,2,61307,122614,35498.95,Cash on Delivery,Kolkata,Shipped
+ORD10361,99946675,Samantha Hill,19-05-2025,Headphones,Electronics,1,54244,54244,21308.5,Credit Card,Bangalore,Delivered
+ORD10362,99947878,Amy Bauer,02-03-2025,Backpack,Fashion,3,14124,42372,14340.45,Net Banking,Mumbai,Shipped
+ORD10363,99947767,Keith Coleman,14-05-2025,Desk Lamp,Furniture,1,6254,6254,773.1,Debit Card,Hyderabad,Delivered
+ORD10364,99942226,Mckenzie Lopez,11-04-2025,Smart Watch,Electronics,1,66747,66747,24025.31,Cash on Delivery,Chennai,Delivered
+ORD10365,99947438,Jamie Gibbs,22-03-2025,Backpack,Fashion,2,31534,63068,19708.57,Debit Card,Bangalore,Returned
+ORD10366,99942785,Abigail Simmons,04-02-2025,Desk Lamp,Furniture,2,10289,20578,2406.26,UPI,Mumbai,Shipped
+ORD10367,99946870,Renee Smith,18-05-2025,Coffee Maker,Home Appliances,4,41660,166640,46333.62,UPI,Hyderabad,Cancelled
+ORD10368,99941660,Rebecca Brown,19-03-2025,Coffee Maker,Home Appliances,3,16217,48651,18140.68,UPI,Kolkata,Cancelled
+ORD10369,99949412,Jesus Dickson,12-04-2025,Headphones,Electronics,1,33034,33034,3616.56,Credit Card,Pune,Cancelled
+ORD10370,99945093,Holly Collins,26-04-2025,Desk Lamp,Furniture,2,4573,9146,1046.04,Credit Card,Hyderabad,Delivered
+ORD10371,99943141,Lori Fleming,26-02-2025,Headphones,Electronics,1,2067,2067,788.56,UPI,Kolkata,Returned
+ORD10372,99941357,Billy Benjamin,20-01-2025,Running Shoes,Fashion,1,76826,76826,17221.65,Credit Card,Delhi,Returned
+ORD10373,99941829,Andrew Kramer,29-04-2025,Headphones,Electronics,1,43956,43956,15966.65,UPI,Chennai,Returned
+ORD10374,99943831,Jason Alexander,20-04-2025,Backpack,Fashion,4,4364,17456,4978.12,Debit Card,Delhi,Shipped
+ORD10375,99945026,Judy Crawford,09-01-2025,Desk Lamp,Furniture,3,58959,176877,23873.59,Debit Card,Hyderabad,Returned
+ORD10376,99943248,Leslie Alexander,09-04-2025,Water Bottle,Accessories,4,8492,33968,12693.28,Net Banking,Delhi,Shipped
+ORD10377,99948859,Douglas Harper,02-04-2025,Water Bottle,Accessories,1,50634,50634,8376.14,Cash on Delivery,Kolkata,Returned
+ORD10378,99943946,Mr. Ricky Miller,11-03-2025,Running Shoes,Fashion,5,66349,331745,100690.8,Credit Card,Bangalore,Shipped
+ORD10379,99949674,Jason Salazar,01-05-2025,Laptop,Electronics,3,8179,24537,3862.22,Debit Card,Kolkata,Shipped
+ORD10380,99949743,Timothy Cox,10-03-2025,Headphones,Electronics,1,32987,32987,6694.4,Credit Card,Kolkata,Shipped
+ORD10381,99943885,Bryan Leblanc,14-02-2025,Smart Watch,Electronics,4,47004,188016,22456.29,UPI,Chennai,Cancelled
+ORD10382,99943328,Ryan Johnston,01-04-2025,Running Shoes,Fashion,5,4197,20985,3965.41,Cash on Delivery,Delhi,Returned
+ORD10383,99941920,Anna Cox,24-01-2025,Water Bottle,Accessories,3,23510,70530,17834.86,UPI,Chennai,Shipped
+ORD10384,99943137,Mark Johnson,21-02-2025,Laptop,Electronics,5,63150,315750,126235.26,Debit Card,Pune,Shipped
+ORD10385,99942817,Crystal Carter,06-02-2025,Running Shoes,Fashion,1,3372,3372,1199.37,Cash on Delivery,Kolkata,Cancelled
+ORD10386,99945944,Joshua Floyd,28-03-2025,Smartphone,Electronics,3,52351,157053,35210.5,Debit Card,Delhi,Shipped
+ORD10387,99946846,Sylvia Glover,24-05-2025,Backpack,Fashion,4,42086,168344,58539.81,UPI,Pune,Shipped
+ORD10388,99947415,Christie Evans,01-01-2025,Backpack,Fashion,3,39102,117306,42440.78,Cash on Delivery,Mumbai,Shipped
+ORD10389,99949129,Stephen Myers,27-01-2025,Smart Watch,Electronics,3,29453,88359,18388.04,UPI,Bangalore,Delivered
+ORD10390,99946500,Shelby Davis,23-01-2025,Office Chair,Furniture,3,42379,127137,44451.39,Net Banking,Mumbai,Cancelled
+ORD10391,99941020,Stephen Logan,28-01-2025,Office Chair,Furniture,2,9385,18770,5534.44,Credit Card,Hyderabad,Returned
+ORD10392,99946754,Misty Bryant,07-04-2025,Backpack,Fashion,2,54766,109532,27610.32,Cash on Delivery,Hyderabad,Delivered
+ORD10393,99941547,James Hinton,19-01-2025,Coffee Maker,Home Appliances,5,30067,150335,52798.11,Debit Card,Mumbai,Cancelled
+ORD10394,99943636,Richard Brown,07-04-2025,Desk Lamp,Furniture,1,10225,10225,3041.5,Credit Card,Chennai,Delivered
+ORD10395,99943703,Tracy Holmes,21-04-2025,Running Shoes,Fashion,5,63773,318865,60153.44,Cash on Delivery,Hyderabad,Shipped
+ORD10396,99947705,Melissa Gibson,18-02-2025,Laptop,Electronics,1,43897,43897,14851.89,Cash on Delivery,Pune,Cancelled
+ORD10397,99949043,Dr. Maria Chang DVM,11-04-2025,Desk Lamp,Furniture,3,31635,94905,35231.13,UPI,Mumbai,Cancelled
+ORD10398,99944271,Richard Miller,03-05-2025,Laptop,Electronics,4,11985,47940,14939.79,Credit Card,Mumbai,Shipped
+ORD10399,99946052,Jeffrey Kane,30-01-2025,Headphones,Electronics,3,11239,33717,8696.59,Net Banking,Hyderabad,Returned
+ORD10400,99947249,Matthew Roberts,05-04-2025,Desk Lamp,Furniture,1,71819,71819,20378.06,Debit Card,Delhi,Returned
+ORD10401,99945400,Janet Coleman,27-02-2025,Laptop,Electronics,3,58137,174411,45431.03,Cash on Delivery,Mumbai,Shipped
+ORD10402,99944727,Matthew Garcia,16-04-2025,Smartphone,Electronics,1,45561,45561,7177.95,Cash on Delivery,Mumbai,Returned
+ORD10403,99944860,Jason Sloan,02-05-2025,Water Bottle,Accessories,4,70690,282760,54821.4,Net Banking,Bangalore,Delivered
+ORD10404,99943415,Chris Li,13-05-2025,Backpack,Fashion,1,66311,66311,15160.95,Credit Card,Kolkata,Returned
+ORD10405,99941699,Robin Hayes,02-02-2025,Headphones,Electronics,2,28272,56544,8903.52,Net Banking,Mumbai,Returned
+ORD10406,99942425,Jennifer Ballard,18-01-2025,Office Chair,Furniture,2,78494,156988,50649.68,Net Banking,Chennai,Returned
+ORD10407,99949561,Angel Macdonald,04-01-2025,Water Bottle,Accessories,3,36702,110106,26876.16,Net Banking,Mumbai,Returned
+ORD10408,99942730,Eddie Bennett,26-01-2025,Headphones,Electronics,2,74764,149528,33437.42,Cash on Delivery,Kolkata,Delivered
+ORD10409,99947275,Tracy Wilkins,09-03-2025,Desk Lamp,Furniture,5,45571,227855,31132.27,Net Banking,Chennai,Returned
+ORD10410,99941635,William Miller,13-04-2025,Laptop,Electronics,2,36599,73198,20430.13,Net Banking,Bangalore,Shipped
+ORD10411,99946535,Melissa Merritt,06-01-2025,Laptop,Electronics,4,35703,142812,18692.75,Debit Card,Bangalore,Cancelled
+ORD10412,99946257,John Williams,24-04-2025,Coffee Maker,Home Appliances,1,30378,30378,10926.49,Debit Card,Pune,Returned
+ORD10413,99948937,Angela Long,15-04-2025,Smart Watch,Electronics,1,25133,25133,6722.7,Cash on Delivery,Kolkata,Cancelled
+ORD10414,99947609,Joseph Jenkins,10-05-2025,Laptop,Electronics,5,21336,106680,40571.99,UPI,Kolkata,Delivered
+ORD10415,99941541,Kathy Martinez,05-03-2025,Headphones,Electronics,2,26809,53618,7984.1,Net Banking,Mumbai,Cancelled
+ORD10416,99947503,Terrance Figueroa,10-05-2025,Office Chair,Furniture,3,48780,146340,22382.43,Credit Card,Pune,Delivered
+ORD10417,99948775,Elizabeth Rodriguez,15-02-2025,Office Chair,Furniture,3,64566,193698,42959.68,Cash on Delivery,Chennai,Cancelled
+ORD10418,99945670,Misty Mcdowell,24-01-2025,Running Shoes,Fashion,2,34403,68806,12062.49,Credit Card,Hyderabad,Delivered
+ORD10419,99944387,Ryan Wright,27-02-2025,Headphones,Electronics,5,28591,142955,20423.5,Debit Card,Pune,Returned
+ORD10420,99943837,Mark Mason,03-02-2025,Water Bottle,Accessories,1,1666,1666,429.45,Cash on Delivery,Kolkata,Delivered
+ORD10421,99947943,Susan Fowler,12-03-2025,Office Chair,Furniture,3,40537,121611,22641.27,Net Banking,Kolkata,Cancelled
+ORD10422,99947506,Steven Ramos,14-05-2025,Coffee Maker,Home Appliances,3,29101,87303,22697.96,Cash on Delivery,Mumbai,Delivered
+ORD10423,99945890,Patty Patel,14-03-2025,Water Bottle,Accessories,3,74091,222273,45743.2,Credit Card,Hyderabad,Delivered
+ORD10424,99945895,Taylor Wolf,08-03-2025,Running Shoes,Fashion,3,43116,129348,18309.54,UPI,Delhi,Shipped
+ORD10425,99941417,Robert Hendricks,05-02-2025,Laptop,Electronics,5,53465,267325,53957.12,Net Banking,Bangalore,Cancelled
+ORD10426,99944111,Crystal Anderson,30-05-2025,Backpack,Fashion,4,51391,205564,36791.92,Debit Card,Pune,Shipped
+ORD10427,99943967,Gary Cox,13-02-2025,Water Bottle,Accessories,4,47488,189952,47071.16,Debit Card,Mumbai,Returned
+ORD10428,99946499,Alexander Hart,16-02-2025,Headphones,Electronics,3,73773,221319,37873.11,Credit Card,Delhi,Cancelled
+ORD10429,99947089,Jerry Jenkins,26-03-2025,Office Chair,Furniture,3,55612,166836,27289.84,Debit Card,Chennai,Cancelled
+ORD10430,99942166,Brittany Wheeler,30-05-2025,Coffee Maker,Home Appliances,1,62174,62174,23868.41,Net Banking,Delhi,Delivered
+ORD10431,99943250,Daniel Macias,08-02-2025,Backpack,Fashion,5,39606,198030,54669.71,UPI,Bangalore,Returned
+ORD10432,99942324,Stephen Hunter,16-02-2025,Smart Watch,Electronics,4,19272,77088,23518.39,Net Banking,Bangalore,Shipped
+ORD10433,99943762,Belinda Reed,23-02-2025,Running Shoes,Fashion,1,1117,1117,295.32,Cash on Delivery,Kolkata,Shipped
+ORD10434,99947609,Amy Fischer,20-04-2025,Coffee Maker,Home Appliances,1,17461,17461,3765.57,Net Banking,Hyderabad,Returned
+ORD10435,99941230,James Lopez,06-04-2025,Laptop,Electronics,1,70463,70463,23969.8,Debit Card,Kolkata,Shipped
+ORD10436,99946113,Michele Stewart,30-03-2025,Laptop,Electronics,1,33113,33113,10997.5,UPI,Mumbai,Returned
+ORD10437,99945885,Tommy Gonzalez,12-01-2025,Water Bottle,Accessories,5,40623,203115,71068.71,Debit Card,Hyderabad,Cancelled
+ORD10438,99946885,Michelle Savage,06-05-2025,Backpack,Fashion,2,45422,90844,9189.63,UPI,Delhi,Returned
+ORD10439,99944460,Robert Anderson,03-02-2025,Laptop,Electronics,2,29902,59804,10875.32,Credit Card,Chennai,Shipped
+ORD10440,99949761,Kaitlin House,07-03-2025,Smartphone,Electronics,3,5397,16191,4653.98,Cash on Delivery,Mumbai,Delivered
+ORD10441,99948279,Angela Walker,17-04-2025,Smartphone,Electronics,1,6822,6822,1317.16,Net Banking,Mumbai,Cancelled
+ORD10442,99945933,Daniel Roach,03-01-2025,Coffee Maker,Home Appliances,2,27434,54868,10504.06,Net Banking,Pune,Delivered
+ORD10443,99942718,Mike Dodson,18-04-2025,Water Bottle,Accessories,3,79881,239643,45479.95,Cash on Delivery,Pune,Delivered
+ORD10444,99945308,Nicholas Smith,21-02-2025,Desk Lamp,Furniture,1,14428,14428,3616.79,Cash on Delivery,Delhi,Cancelled
+ORD10445,99944402,Lori Bailey,08-05-2025,Backpack,Fashion,3,21520,64560,25060.79,Net Banking,Bangalore,Shipped
+ORD10446,99949095,Mr. Douglas Murphy,27-05-2025,Laptop,Electronics,1,12165,12165,1556.34,UPI,Mumbai,Delivered
+ORD10447,99945327,Sean Smith,17-03-2025,Smartphone,Electronics,3,30798,92394,24297.28,Net Banking,Mumbai,Delivered
+ORD10448,99947979,Misty Griffin,22-03-2025,Headphones,Electronics,1,38585,38585,11264.34,Credit Card,Mumbai,Delivered
+ORD10449,99945395,Melissa Cook,23-04-2025,Laptop,Electronics,2,22849,45698,13773.46,Credit Card,Bangalore,Cancelled
+ORD10450,99945453,Christopher Werner,27-04-2025,Headphones,Electronics,1,53030,53030,14844.42,Net Banking,Pune,Returned
+ORD10451,99943611,Marilyn Dunn,16-01-2025,Backpack,Fashion,2,15318,30636,11036.51,Credit Card,Hyderabad,Returned
+ORD10452,99941472,Jaime Smith,02-04-2025,Smart Watch,Electronics,4,24258,97032,21017.43,UPI,Hyderabad,Returned
+ORD10453,99946148,Susan Petty,08-03-2025,Smartphone,Electronics,4,58261,233044,90003.53,Credit Card,Pune,Shipped
+ORD10454,99948091,Julia Rocha,25-01-2025,Running Shoes,Fashion,5,69064,345320,66828.92,UPI,Hyderabad,Cancelled
+ORD10455,99941190,Kristen Baker,14-01-2025,Backpack,Fashion,2,73683,147366,19508.52,UPI,Chennai,Returned
+ORD10456,99944946,Cassandra Steele,24-03-2025,Coffee Maker,Home Appliances,2,10312,20624,3600.35,Debit Card,Bangalore,Delivered
+ORD10457,99944850,Eric Wright,14-04-2025,Water Bottle,Accessories,2,72654,145308,30079.45,Credit Card,Hyderabad,Returned
+ORD10458,99946178,Jessica Thomas,25-04-2025,Smart Watch,Electronics,4,12036,48144,6885.71,Credit Card,Hyderabad,Delivered
+ORD10459,99941002,Ernest Nelson,21-05-2025,Smartphone,Electronics,4,54546,218184,84928.21,Credit Card,Kolkata,Cancelled
+ORD10460,99946584,Courtney Rogers,27-04-2025,Water Bottle,Accessories,5,27612,138060,28111.94,Debit Card,Kolkata,Delivered
+ORD10461,99946952,Laurie Kidd MD,02-05-2025,Office Chair,Furniture,4,44012,176048,40835.17,Net Banking,Mumbai,Delivered
+ORD10462,99949973,Jane Campbell,16-03-2025,Office Chair,Furniture,1,45242,45242,13276.64,Cash on Delivery,Bangalore,Delivered
+ORD10463,99942752,Melinda Hill,15-04-2025,Laptop,Electronics,2,65042,130084,46552.54,Debit Card,Chennai,Shipped
+ORD10464,99946536,Karina Lee,18-02-2025,Office Chair,Furniture,1,51997,51997,17435.8,Credit Card,Kolkata,Returned
+ORD10465,99948493,Jennifer Martinez,26-04-2025,Laptop,Electronics,5,16650,83250,14015.67,Cash on Delivery,Chennai,Shipped
+ORD10466,99948091,Thomas Hale,22-05-2025,Coffee Maker,Home Appliances,1,70015,70015,12542.19,Cash on Delivery,Hyderabad,Shipped
+ORD10467,99949259,John Bright,24-03-2025,Smart Watch,Electronics,2,17327,34654,12785.03,Net Banking,Hyderabad,Shipped
+ORD10468,99943185,Emily Thomas,26-04-2025,Desk Lamp,Furniture,4,45439,181756,19784.6,UPI,Hyderabad,Cancelled
+ORD10469,99944435,Robert White,21-02-2025,Water Bottle,Accessories,3,73059,219177,46076.49,Cash on Delivery,Pune,Cancelled
+ORD10470,99942890,Julie Ramos,24-03-2025,Running Shoes,Fashion,2,23806,47612,11847.39,Debit Card,Chennai,Returned
+ORD10471,99945684,Veronica Lee,17-05-2025,Smart Watch,Electronics,5,55219,276095,54591.42,Net Banking,Kolkata,Delivered
+ORD10472,99941927,Debra Mcdonald,14-01-2025,Water Bottle,Accessories,1,3812,3812,1089.24,UPI,Bangalore,Shipped
+ORD10473,99944342,Walter Buckley,17-03-2025,Desk Lamp,Furniture,3,19692,59076,8754.2,Cash on Delivery,Mumbai,Cancelled
+ORD10474,99947371,Bruce Morales,24-05-2025,Coffee Maker,Home Appliances,1,74147,74147,10421.18,UPI,Chennai,Cancelled
+ORD10475,99941881,Jacob Bailey,22-03-2025,Laptop,Electronics,4,51297,205188,56432.88,Credit Card,Pune,Cancelled
+ORD10476,99949955,Marcus David,05-04-2025,Office Chair,Furniture,5,58573,292865,44224.07,Cash on Delivery,Delhi,Shipped
+ORD10477,99944063,Michael Gonzalez,20-01-2025,Desk Lamp,Furniture,4,23755,95020,9973.68,UPI,Pune,Delivered
+ORD10478,99943131,Brandy Fowler DDS,09-03-2025,Backpack,Fashion,1,56665,56665,17921.23,UPI,Chennai,Cancelled
+ORD10479,99941654,Scott Morris,09-02-2025,Laptop,Electronics,3,61622,184866,34587.17,UPI,Bangalore,Delivered
+ORD10480,99946866,Deborah Fry,21-05-2025,Smart Watch,Electronics,3,64797,194391,31691.09,Credit Card,Kolkata,Cancelled
+ORD10481,99943611,James Jenkins,10-05-2025,Water Bottle,Accessories,2,24600,49200,11995.85,Net Banking,Chennai,Returned
+ORD10482,99946424,Peter Ortiz,26-03-2025,Smartphone,Electronics,3,29492,88476,11942.58,Debit Card,Bangalore,Shipped
+ORD10483,99942879,Jessica Chapman,03-01-2025,Smart Watch,Electronics,5,62740,313700,31687.05,Debit Card,Hyderabad,Shipped
+ORD10484,99947248,Deborah Kerr,24-03-2025,Smart Watch,Electronics,5,32458,162290,18230.19,Credit Card,Hyderabad,Cancelled
+ORD10485,99949426,James Hardy,06-04-2025,Water Bottle,Accessories,3,3738,11214,1419.68,Cash on Delivery,Hyderabad,Returned
+ORD10486,99942572,Richard Le,22-01-2025,Laptop,Electronics,3,25732,77196,23460.34,UPI,Kolkata,Delivered
+ORD10487,99942702,Kenneth Gordon,19-04-2025,Smartphone,Electronics,2,28441,56882,7992.76,UPI,Chennai,Returned
+ORD10488,99941620,Steven Jones,26-03-2025,Smartphone,Electronics,2,3613,7226,1894.89,Credit Card,Mumbai,Delivered
+ORD10489,99945237,Grant Pena,28-02-2025,Headphones,Electronics,3,73649,220947,83709.61,Net Banking,Hyderabad,Returned
+ORD10490,99949762,Eduardo Pitts,31-01-2025,Backpack,Fashion,4,41971,167884,66302.88,Credit Card,Pune,Delivered
+ORD10491,99942738,Christian Guzman,09-05-2025,Smart Watch,Electronics,1,10014,10014,2931,Debit Card,Kolkata,Cancelled
+ORD10492,99947249,Michael Wells,23-04-2025,Smart Watch,Electronics,1,37399,37399,6373.45,Net Banking,Kolkata,Delivered
+ORD10493,99949941,Robert Jenkins,11-04-2025,Coffee Maker,Home Appliances,2,70422,140844,47047.57,Debit Card,Pune,Shipped
+ORD10494,99943316,John Lewis,23-05-2025,Desk Lamp,Furniture,3,1961,5883,1376.29,Credit Card,Mumbai,Delivered
+ORD10495,99945992,Willie Martin,22-01-2025,Smart Watch,Electronics,5,52153,260765,62284.86,UPI,Pune,Cancelled
+ORD10496,99944617,Kayla Reeves,17-02-2025,Office Chair,Furniture,4,67681,270724,96719.79,Cash on Delivery,Kolkata,Cancelled
+ORD10497,99941891,Jamie Dyer,26-05-2025,Office Chair,Furniture,1,24270,24270,4822.61,Cash on Delivery,Hyderabad,Delivered
+ORD10498,99948982,Rebekah Casey,29-05-2025,Desk Lamp,Furniture,1,33358,33358,12360.45,Debit Card,Bangalore,Shipped
+ORD10499,99946206,Samantha Davis,19-02-2025,Office Chair,Furniture,1,37873,37873,8110.32,Net Banking,Hyderabad,Cancelled
+ORD10500,99946971,Nancy Gilbert,26-05-2025,Smart Watch,Electronics,3,77068,231204,81911.3,Debit Card,Hyderabad,Shipped
+ORD10501,99945533,Charles Gibson,22-04-2025,Laptop,Electronics,3,32766,98298,16150.55,Debit Card,Delhi,Cancelled
+ORD10502,99948978,Ross Spencer,20-03-2025,Coffee Maker,Home Appliances,4,58873,235492,68852.57,Cash on Delivery,Mumbai,Shipped
+ORD10503,99949824,Marissa Pope,05-02-2025,Smart Watch,Electronics,1,37280,37280,5308.15,UPI,Bangalore,Delivered
+ORD10504,99947637,Kimberly Castro,29-05-2025,Smartphone,Electronics,1,66976,66976,14099.26,Cash on Delivery,Delhi,Delivered
+ORD10505,99948734,Alexander Henry,19-05-2025,Water Bottle,Accessories,3,71733,215199,28364.14,UPI,Bangalore,Returned
+ORD10506,99949362,Gabriel West,09-05-2025,Office Chair,Furniture,5,38641,193205,69522.04,Credit Card,Hyderabad,Cancelled
+ORD10507,99949423,Gina Smith,12-02-2025,Water Bottle,Accessories,1,31810,31810,4631.71,UPI,Hyderabad,Shipped
+ORD10508,99948921,Tammy Gomez,07-02-2025,Headphones,Electronics,5,74662,373310,75474.33,Debit Card,Mumbai,Shipped
+ORD10509,99941701,Kayla Henderson,01-03-2025,Coffee Maker,Home Appliances,2,8739,17478,5605.07,UPI,Chennai,Cancelled
+ORD10510,99946309,Nicole Barry,11-01-2025,Backpack,Fashion,4,60091,240364,32577.59,Credit Card,Pune,Cancelled
+ORD10511,99947201,Donna Rogers,07-04-2025,Desk Lamp,Furniture,5,71849,359245,82249.84,Debit Card,Chennai,Delivered
+ORD10512,99949460,Joshua Erickson,27-02-2025,Water Bottle,Accessories,3,49826,149478,16173.19,Net Banking,Bangalore,Cancelled
+ORD10513,99948207,James Miller,05-02-2025,Coffee Maker,Home Appliances,4,79695,318780,126881.04,UPI,Delhi,Delivered
+ORD10514,99946934,John Solis,10-02-2025,Water Bottle,Accessories,3,28223,84669,30051.39,Cash on Delivery,Pune,Delivered
+ORD10515,99948844,Shannon Andersen,04-05-2025,Office Chair,Furniture,4,43783,175132,32210.86,Net Banking,Delhi,Shipped
+ORD10516,99943639,Julie Hernandez,27-05-2025,Backpack,Fashion,1,32438,32438,12555.35,UPI,Pune,Delivered
+ORD10517,99949464,Laura Cooley,16-02-2025,Smart Watch,Electronics,2,7828,15656,5481.13,Net Banking,Chennai,Delivered
+ORD10518,99948891,Katrina Calderon,01-05-2025,Desk Lamp,Furniture,1,28889,28889,7662.49,UPI,Delhi,Returned
+ORD10519,99949369,Mary Howard,16-02-2025,Smart Watch,Electronics,2,76868,153736,23654.44,Debit Card,Delhi,Cancelled
+ORD10520,99947315,Eric Thompson,07-04-2025,Coffee Maker,Home Appliances,5,77910,389550,147774.67,UPI,Mumbai,Delivered
+ORD10521,99942577,Kathy Spencer,08-02-2025,Office Chair,Furniture,5,66607,333035,64838.47,UPI,Hyderabad,Delivered
+ORD10522,99949835,Dana Hart,03-02-2025,Water Bottle,Accessories,5,15903,79515,29583,Credit Card,Kolkata,Returned
+ORD10523,99948028,Keith Schwartz,16-05-2025,Water Bottle,Accessories,4,49046,196184,26985.64,UPI,Kolkata,Returned
+ORD10524,99942600,Jill Howe,28-05-2025,Backpack,Fashion,3,77707,233121,36976.18,Net Banking,Delhi,Cancelled
+ORD10525,99947695,Bobby Hamilton,20-05-2025,Coffee Maker,Home Appliances,2,11486,22972,7236.64,Debit Card,Delhi,Delivered
+ORD10526,99947144,Leslie Lee,02-01-2025,Laptop,Electronics,5,68990,344950,125786.51,UPI,Pune,Cancelled
+ORD10527,99945155,Raymond Riley,30-05-2025,Backpack,Fashion,3,14470,43410,15348.32,Debit Card,Kolkata,Returned
+ORD10528,99944337,Nathan Moyer,12-04-2025,Smart Watch,Electronics,3,36618,109854,11255.68,Net Banking,Chennai,Returned
+ORD10529,99946024,Denise Wright,06-03-2025,Headphones,Electronics,3,73781,221343,51689.48,Cash on Delivery,Bangalore,Returned
+ORD10530,99942642,Andrea Wade,11-02-2025,Headphones,Electronics,1,30616,30616,8144.52,UPI,Chennai,Returned
+ORD10531,99942492,Norma Logan,02-01-2025,Running Shoes,Fashion,5,7322,36610,12878.61,UPI,Hyderabad,Returned
+ORD10532,99941618,Rebecca Perez,21-01-2025,Smartphone,Electronics,1,34983,34983,11665.74,Net Banking,Hyderabad,Cancelled
+ORD10533,99941175,Janet Manning,23-04-2025,Smart Watch,Electronics,1,23473,23473,4880.33,UPI,Kolkata,Cancelled
+ORD10534,99943776,Monica Johnson,01-03-2025,Office Chair,Furniture,1,79079,79079,19519.52,Credit Card,Bangalore,Shipped
+ORD10535,99946785,Jay Meyer,13-04-2025,Laptop,Electronics,2,11882,23764,2399.09,Net Banking,Hyderabad,Shipped
+ORD10536,99945661,Laura Pennington,21-05-2025,Water Bottle,Accessories,1,9493,9493,1179.47,Cash on Delivery,Chennai,Cancelled
+ORD10537,99948450,Timothy Abbott,19-02-2025,Running Shoes,Fashion,3,30161,90483,19733.53,Net Banking,Chennai,Delivered
+ORD10538,99942185,Alexandria Collins,24-05-2025,Desk Lamp,Furniture,2,53863,107726,26729.9,Cash on Delivery,Bangalore,Cancelled
+ORD10539,99945098,Steven Flores,28-05-2025,Smartphone,Electronics,5,34276,171380,23507.52,Net Banking,Hyderabad,Returned
+ORD10540,99941448,Danielle Valdez,31-05-2025,Office Chair,Furniture,3,60642,181926,35570.46,Net Banking,Mumbai,Cancelled
+ORD10541,99946172,Laura Pierce,28-02-2025,Smartphone,Electronics,4,29385,117540,23146.69,Net Banking,Bangalore,Delivered
+ORD10542,99942245,Adam Benjamin,29-03-2025,Desk Lamp,Furniture,2,38155,76310,28394.74,Cash on Delivery,Delhi,Returned
+ORD10543,99943994,Charles Montoya,10-03-2025,Running Shoes,Fashion,3,29147,87441,11516.43,UPI,Hyderabad,Shipped
+ORD10544,99945091,Katrina Elliott,21-02-2025,Office Chair,Furniture,2,35287,70574,23851.64,Cash on Delivery,Bangalore,Shipped
+ORD10545,99941108,James Fleming,07-05-2025,Smartphone,Electronics,1,10787,10787,2127.8,Cash on Delivery,Mumbai,Returned
+ORD10546,99945501,Javier Davis,28-05-2025,Running Shoes,Fashion,5,41842,209210,52783.24,Net Banking,Delhi,Cancelled
+ORD10547,99947933,Sarah Hayes,15-05-2025,Backpack,Fashion,2,76084,152168,55012.72,Net Banking,Chennai,Delivered
+ORD10548,99948490,Christine Mcneil,14-02-2025,Water Bottle,Accessories,3,52105,156315,22177.97,Credit Card,Pune,Returned
+ORD10549,99942650,Jacqueline Ross,08-04-2025,Running Shoes,Fashion,1,2049,2049,405.23,Debit Card,Bangalore,Cancelled
+ORD10550,99946621,Jennifer Lang,01-05-2025,Headphones,Electronics,5,34952,174760,57471.27,Debit Card,Delhi,Returned
+ORD10551,99946981,Edward Macias,06-04-2025,Backpack,Fashion,2,55431,110862,21040.08,Net Banking,Bangalore,Returned
+ORD10552,99942636,Carrie Lynn,28-02-2025,Headphones,Electronics,5,17688,88440,9393.94,Debit Card,Kolkata,Shipped
+ORD10553,99948749,Richard Torres,08-02-2025,Water Bottle,Accessories,4,50423,201692,68813.49,Credit Card,Delhi,Returned
+ORD10554,99948972,Krista Long,22-03-2025,Coffee Maker,Home Appliances,2,68265,136530,32740.61,Debit Card,Bangalore,Delivered
+ORD10555,99948807,Donna Roach,07-03-2025,Backpack,Fashion,1,21909,21909,8369,Credit Card,Hyderabad,Cancelled
+ORD10556,99946638,Taylor Mays,07-03-2025,Desk Lamp,Furniture,3,47726,143178,33202.26,Credit Card,Hyderabad,Delivered
+ORD10557,99943859,Jennifer Wilcox,18-05-2025,Running Shoes,Fashion,5,26577,132885,30157.44,Debit Card,Bangalore,Cancelled
+ORD10558,99945694,Dennis Silva,08-04-2025,Water Bottle,Accessories,4,59080,236320,31456.62,Net Banking,Pune,Shipped
+ORD10559,99947631,Randall Andersen,27-05-2025,Headphones,Electronics,3,55788,167364,35249.87,Credit Card,Mumbai,Shipped
+ORD10560,99945382,Aaron Norton,16-03-2025,Running Shoes,Fashion,2,41588,83176,25363.4,Cash on Delivery,Pune,Returned
+ORD10561,99948377,Mary Adams,14-05-2025,Desk Lamp,Furniture,4,48100,192400,33791.47,Net Banking,Delhi,Shipped
+ORD10562,99944450,Jordan Myers,21-01-2025,Laptop,Electronics,2,31253,62506,12588.29,UPI,Hyderabad,Delivered
+ORD10563,99947504,Julie Johnson,07-01-2025,Smartphone,Electronics,1,62521,62521,14721.81,Cash on Delivery,Kolkata,Delivered
+ORD10564,99946068,Mercedes Pitts,10-04-2025,Smartphone,Electronics,3,20852,62556,23440.15,UPI,Delhi,Cancelled
+ORD10565,99941468,Jeffery Williams,13-02-2025,Coffee Maker,Home Appliances,2,17706,35412,8568.9,Credit Card,Pune,Cancelled
+ORD10566,99945463,Emily Phillips,19-05-2025,Running Shoes,Fashion,4,61735,246940,26547.42,Cash on Delivery,Hyderabad,Shipped
+ORD10567,99948126,Bryan Clark,25-05-2025,Water Bottle,Accessories,2,77941,155882,34407.01,Cash on Delivery,Pune,Cancelled
+ORD10568,99948239,Joshua Taylor PhD,23-01-2025,Running Shoes,Fashion,4,71235,284940,94560.61,Debit Card,Bangalore,Returned
+ORD10569,99943233,Vincent Strickland,14-05-2025,Desk Lamp,Furniture,2,40289,80578,31976.03,Debit Card,Bangalore,Returned
+ORD10570,99945908,Shelly Torres,03-05-2025,Water Bottle,Accessories,1,64978,64978,7531.78,Credit Card,Kolkata,Returned
+ORD10571,99947121,Chase Walker,21-05-2025,Desk Lamp,Furniture,5,30805,154025,24793.37,UPI,Hyderabad,Returned
+ORD10572,99947199,Julie Parker,10-04-2025,Backpack,Fashion,2,21900,43800,8125.71,UPI,Bangalore,Delivered
+ORD10573,99945664,Tonya Burke,11-03-2025,Backpack,Fashion,2,68213,136426,23279.53,Cash on Delivery,Kolkata,Cancelled
+ORD10574,99942808,Kayla Martin,16-03-2025,Backpack,Fashion,2,9473,18946,6541.63,Net Banking,Chennai,Returned
+ORD10575,99943492,Veronica Ruiz,05-01-2025,Desk Lamp,Furniture,5,64986,324930,111666.47,Credit Card,Chennai,Delivered
+ORD10576,99941134,Mr. Max Mendoza,23-04-2025,Headphones,Electronics,1,37477,37477,11964.21,UPI,Mumbai,Shipped
+ORD10577,99949165,Anthony Goodman,21-03-2025,Laptop,Electronics,4,28967,115868,34462.17,Debit Card,Hyderabad,Delivered
+ORD10578,99942169,Betty Moran,11-04-2025,Running Shoes,Fashion,1,19648,19648,7528.89,Cash on Delivery,Hyderabad,Shipped
+ORD10579,99945078,Nicole Robbins,01-02-2025,Office Chair,Furniture,3,50514,151542,22962.31,Net Banking,Kolkata,Returned
+ORD10580,99949538,John Scott,25-01-2025,Office Chair,Furniture,1,26606,26606,6964.11,UPI,Hyderabad,Returned
+ORD10581,99949534,Veronica Harper,11-01-2025,Desk Lamp,Furniture,3,21289,63867,13491.95,Credit Card,Bangalore,Returned
+ORD10582,99942850,Virginia Beard,25-02-2025,Desk Lamp,Furniture,2,47741,95482,12770.16,UPI,Pune,Returned
+ORD10583,99942960,Mr. James Carlson,30-05-2025,Running Shoes,Fashion,1,22436,22436,3627.52,Net Banking,Kolkata,Shipped
+ORD10584,99943539,Angela Schaefer,02-05-2025,Laptop,Electronics,1,76662,76662,12645.97,Debit Card,Kolkata,Delivered
+ORD10585,99941983,Mr. Patrick Gonzalez PhD,28-03-2025,Office Chair,Furniture,2,66025,132050,49199.13,Credit Card,Bangalore,Shipped
+ORD10586,99946690,Kristin Wheeler,23-03-2025,Water Bottle,Accessories,1,16992,16992,4309.97,Net Banking,Pune,Shipped
+ORD10587,99941646,Nicole Tate,06-03-2025,Laptop,Electronics,4,47445,189780,34669.06,Net Banking,Pune,Returned
+ORD10588,99944057,Kelsey Campbell,18-02-2025,Water Bottle,Accessories,3,71637,214911,41024.07,Cash on Delivery,Bangalore,Cancelled
+ORD10589,99943627,Christy Perry,22-05-2025,Coffee Maker,Home Appliances,3,78970,236910,29769.59,Credit Card,Chennai,Shipped
+ORD10590,99941011,Brandy Jackson,27-04-2025,Coffee Maker,Home Appliances,3,35017,105051,24951.53,Cash on Delivery,Hyderabad,Shipped
+ORD10591,99946254,Carol Gomez,03-03-2025,Laptop,Electronics,5,48220,241100,40310.72,Credit Card,Pune,Returned
+ORD10592,99945638,Alicia Anderson,09-02-2025,Office Chair,Furniture,5,65714,328570,55948.82,Debit Card,Hyderabad,Cancelled
+ORD10593,99943126,Michael Flores,12-01-2025,Smartphone,Electronics,1,69076,69076,13976.33,UPI,Kolkata,Delivered
+ORD10594,99947366,Alejandro Jordan,09-01-2025,Office Chair,Furniture,1,64118,64118,21961.38,Net Banking,Chennai,Cancelled
+ORD10595,99941214,Ryan Barnett,19-01-2025,Laptop,Electronics,3,29430,88290,19266.11,UPI,Pune,Returned
+ORD10596,99947046,Natalie Meza,17-04-2025,Smartphone,Electronics,4,8456,33824,9867.21,Credit Card,Kolkata,Cancelled
+ORD10597,99944537,Christopher Rivera,20-01-2025,Water Bottle,Accessories,1,9725,9725,1455.47,Cash on Delivery,Mumbai,Delivered
+ORD10598,99945075,George Brown,15-05-2025,Office Chair,Furniture,5,51006,255030,87516.57,Cash on Delivery,Pune,Shipped
+ORD10599,99946864,James Jones,28-05-2025,Water Bottle,Accessories,5,54919,274595,48374.71,Net Banking,Pune,Returned
+ORD10600,99946529,Jennifer Green,10-05-2025,Smartphone,Electronics,2,24144,48288,11348.18,UPI,Chennai,Returned
+ORD10601,99947090,Susan Wilson,25-03-2025,Running Shoes,Fashion,3,72600,217800,22337.81,Net Banking,Kolkata,Returned
+ORD10602,99947145,Ashley Keller,24-02-2025,Running Shoes,Fashion,5,32051,160255,37027.97,Cash on Delivery,Pune,Cancelled
+ORD10603,99941567,Beth White,01-01-2025,Running Shoes,Fashion,4,59154,236616,26513.45,Debit Card,Chennai,Delivered
+ORD10604,99944519,Teresa Stephens,26-02-2025,Water Bottle,Accessories,2,40062,80124,31891.7,Debit Card,Mumbai,Cancelled
+ORD10605,99943534,Joseph Poole,27-05-2025,Water Bottle,Accessories,5,73418,367090,83990.02,Credit Card,Mumbai,Returned
+ORD10606,99945093,Angela Daniels,30-05-2025,Running Shoes,Fashion,2,18641,37282,11949.01,UPI,Bangalore,Cancelled
+ORD10607,99942264,Jennifer Nguyen,25-02-2025,Smartphone,Electronics,5,52902,264510,60646.99,Debit Card,Kolkata,Returned
+ORD10608,99945921,Bradley Fields,25-01-2025,Headphones,Electronics,4,76027,304108,46876.86,Credit Card,Pune,Returned
+ORD10609,99947824,Penny Kaufman,22-04-2025,Smartphone,Electronics,1,44329,44329,13104.58,Credit Card,Kolkata,Shipped
+ORD10610,99941674,Heather Torres,15-05-2025,Smart Watch,Electronics,1,50633,50633,19431,Debit Card,Chennai,Shipped
+ORD10611,99948300,Wayne Tyler DDS,11-04-2025,Running Shoes,Fashion,5,29440,147200,52114.8,Cash on Delivery,Chennai,Delivered
+ORD10612,99943165,Gabrielle Guzman,07-02-2025,Office Chair,Furniture,4,38482,153928,25257.97,Debit Card,Mumbai,Returned
+ORD10613,99947529,Dana Baker,22-01-2025,Smart Watch,Electronics,1,72347,72347,20274.71,Cash on Delivery,Hyderabad,Shipped
+ORD10614,99944212,Mrs. Debra Howe DDS,12-04-2025,Headphones,Electronics,4,73808,295232,100546.41,Cash on Delivery,Chennai,Shipped
+ORD10615,99942467,John Flores,24-03-2025,Office Chair,Furniture,1,35398,35398,5910.35,Credit Card,Pune,Returned
+ORD10616,99941396,Michael Warner,30-03-2025,Backpack,Fashion,3,46153,138459,47471.09,Debit Card,Delhi,Cancelled
+ORD10617,99944271,Tiffany Cordova,01-03-2025,Smart Watch,Electronics,4,19612,78448,21013.16,Debit Card,Delhi,Delivered
+ORD10618,99945713,Brandi Ruiz,07-02-2025,Smartphone,Electronics,1,32356,32356,3731.22,Credit Card,Bangalore,Delivered
+ORD10619,99949814,Briana Herrera,23-02-2025,Desk Lamp,Furniture,4,62259,249036,97914.87,UPI,Delhi,Cancelled
+ORD10620,99947170,Travis Salas,05-01-2025,Water Bottle,Accessories,4,19026,76104,14572.29,Cash on Delivery,Pune,Delivered
+ORD10621,99941869,Joshua Barker,11-03-2025,Desk Lamp,Furniture,2,8378,16756,5274.72,Net Banking,Pune,Delivered
+ORD10622,99942767,Marcus Hester,03-04-2025,Smartphone,Electronics,4,36061,144244,29008.26,Credit Card,Bangalore,Returned
+ORD10623,99946168,George Miller,26-01-2025,Office Chair,Furniture,4,67155,268620,28746.75,Net Banking,Kolkata,Delivered
+ORD10624,99941352,James Johnson,24-05-2025,Headphones,Electronics,2,66121,132242,14541.67,Credit Card,Delhi,Cancelled
+ORD10625,99946681,Cassandra Stark,05-01-2025,Running Shoes,Fashion,4,52063,208252,36794.54,Debit Card,Bangalore,Cancelled
+ORD10626,99947343,Chad Miller,07-03-2025,Office Chair,Furniture,5,36659,183295,28673.23,Credit Card,Chennai,Cancelled
+ORD10627,99942438,Mark Mcdonald,05-02-2025,Office Chair,Furniture,2,45298,90596,11854.25,Net Banking,Chennai,Shipped
+ORD10628,99946395,Sandra Tran,21-03-2025,Backpack,Fashion,2,75590,151180,53544.21,Net Banking,Chennai,Shipped
+ORD10629,99943262,Margaret Turner,21-02-2025,Office Chair,Furniture,2,76656,153312,36425.99,Debit Card,Pune,Shipped
+ORD10630,99942111,John Brown,23-03-2025,Backpack,Fashion,2,74535,149070,18613.83,Cash on Delivery,Chennai,Delivered
+ORD10631,99947783,Linda Houston,23-03-2025,Headphones,Electronics,3,19573,58719,10679.59,Net Banking,Bangalore,Returned
+ORD10632,99941429,Michelle Clark,17-02-2025,Desk Lamp,Furniture,2,25132,50264,18495.57,Cash on Delivery,Chennai,Cancelled
+ORD10633,99941427,Raymond Johnson,01-03-2025,Smart Watch,Electronics,5,30766,153830,34010.55,Debit Card,Mumbai,Returned
+ORD10634,99944014,Erica Young,06-04-2025,Headphones,Electronics,5,79760,398800,103437.14,Net Banking,Hyderabad,Returned
+ORD10635,99941245,George Gray,15-04-2025,Headphones,Electronics,2,25830,51660,17157.22,Debit Card,Hyderabad,Shipped
+ORD10636,99949027,Marcus Jordan,23-04-2025,Office Chair,Furniture,2,9168,18336,6360.33,Debit Card,Kolkata,Returned
+ORD10637,99946126,Michael Johnson,08-04-2025,Office Chair,Furniture,4,53566,214264,35811.14,Net Banking,Chennai,Delivered
+ORD10638,99945025,Michelle Spencer,11-01-2025,Water Bottle,Accessories,1,59693,59693,15695.07,Cash on Delivery,Chennai,Returned
+ORD10639,99944110,Madison Boyd,13-01-2025,Laptop,Electronics,5,51277,256385,62855.86,Debit Card,Hyderabad,Returned
+ORD10640,99941893,Jennifer Jones,17-03-2025,Desk Lamp,Furniture,3,60969,182907,64027.33,Cash on Delivery,Delhi,Returned
+ORD10641,99949952,Paul Rodriguez,30-05-2025,Coffee Maker,Home Appliances,1,66122,66122,24203.86,UPI,Hyderabad,Returned
+ORD10642,99948449,Donna Shaffer MD,21-02-2025,Running Shoes,Fashion,4,3765,15060,5215.83,Credit Card,Bangalore,Cancelled
+ORD10643,99946946,Mark Sawyer,26-04-2025,Headphones,Electronics,1,12452,12452,4554.33,Credit Card,Chennai,Returned
+ORD10644,99941719,Steven Ramirez,08-04-2025,Water Bottle,Accessories,5,21458,107290,30727.47,UPI,Bangalore,Shipped
+ORD10645,99947874,Mark Drake,14-01-2025,Headphones,Electronics,2,23944,47888,8105.19,Debit Card,Bangalore,Returned
+ORD10646,99941057,Jean Brown,21-02-2025,Desk Lamp,Furniture,2,15908,31816,4150,Cash on Delivery,Kolkata,Cancelled
+ORD10647,99941094,Donna Hernandez,20-05-2025,Laptop,Electronics,4,65725,262900,37693.73,Cash on Delivery,Hyderabad,Shipped
+ORD10648,99942300,Thomas Roberts,24-04-2025,Office Chair,Furniture,5,62852,314260,82926.44,Cash on Delivery,Chennai,Delivered
+ORD10649,99944401,Marcus Hunt,23-05-2025,Office Chair,Furniture,5,36952,184760,39551.61,Credit Card,Delhi,Shipped
+ORD10650,99945889,Kevin Curry,09-01-2025,Laptop,Electronics,3,5313,15939,5680.46,Debit Card,Mumbai,Delivered
+ORD10651,99943906,Robert Thomas Jr.,14-03-2025,Smartphone,Electronics,4,23863,95452,33560.87,Net Banking,Pune,Cancelled
+ORD10652,99942108,Victor Boyd,08-04-2025,Laptop,Electronics,1,39729,39729,12043.98,Net Banking,Kolkata,Delivered
+ORD10653,99946393,Kenneth Davidson,12-03-2025,Desk Lamp,Furniture,4,18135,72540,26360.53,Cash on Delivery,Hyderabad,Shipped
+ORD10654,99942436,Timothy Johnson,16-05-2025,Office Chair,Furniture,5,8126,40630,14919.72,Net Banking,Pune,Cancelled
+ORD10655,99946797,Sheila Simon,28-05-2025,Backpack,Fashion,5,41982,209910,67612.43,UPI,Chennai,Returned
+ORD10656,99945759,Patrick Beck,01-03-2025,Water Bottle,Accessories,4,65053,260212,41010.94,UPI,Mumbai,Delivered
+ORD10657,99947793,Sydney Dillon,23-02-2025,Laptop,Electronics,4,15956,63824,11409.15,Net Banking,Mumbai,Cancelled
+ORD10658,99945614,Brianna Rasmussen,21-02-2025,Running Shoes,Fashion,5,28331,141655,56181.91,Debit Card,Kolkata,Delivered
+ORD10659,99942865,Alicia Lamb,02-01-2025,Desk Lamp,Furniture,3,66912,200736,47173.35,Debit Card,Bangalore,Returned
+ORD10660,99946415,Sarah Miranda,19-02-2025,Smart Watch,Electronics,5,4316,21580,3245.36,Debit Card,Pune,Returned
+ORD10661,99949797,Anthony Williams,28-04-2025,Coffee Maker,Home Appliances,1,18293,18293,4674.8,Debit Card,Hyderabad,Returned
+ORD10662,99949779,Patrick Bird,22-03-2025,Laptop,Electronics,5,39735,198675,45798.01,Credit Card,Delhi,Cancelled
+ORD10663,99946556,James Ritter,08-01-2025,Running Shoes,Fashion,1,20069,20069,6339.03,Net Banking,Pune,Shipped
+ORD10664,99946050,Kristine Rubio,30-01-2025,Smart Watch,Electronics,5,51561,257805,88629.83,Debit Card,Pune,Delivered
+ORD10665,99947088,John Walker,02-03-2025,Desk Lamp,Furniture,4,11876,47504,11917.98,Net Banking,Kolkata,Cancelled
+ORD10666,99941612,Samuel Delgado,06-04-2025,Office Chair,Furniture,5,40125,200625,69716.42,UPI,Mumbai,Returned
+ORD10667,99944116,Melody Warren,09-02-2025,Water Bottle,Accessories,1,63763,63763,8194.39,Debit Card,Hyderabad,Cancelled
+ORD10668,99943174,Monica Harvey,13-05-2025,Running Shoes,Fashion,2,13378,26756,4103.26,UPI,Pune,Delivered
+ORD10669,99941721,Katie Peterson,21-03-2025,Coffee Maker,Home Appliances,4,68964,275856,100756.18,Cash on Delivery,Kolkata,Delivered
+ORD10670,99941368,Jillian Sparks,21-03-2025,Running Shoes,Fashion,4,6547,26188,9665.18,Cash on Delivery,Kolkata,Cancelled
+ORD10671,99949720,Cheryl Mueller,12-03-2025,Office Chair,Furniture,3,26787,80361,27502.45,Debit Card,Kolkata,Returned
+ORD10672,99941249,Karen Parrish,30-01-2025,Smartphone,Electronics,3,20071,60213,21240.21,Cash on Delivery,Chennai,Delivered
+ORD10673,99943319,Mark Reynolds,11-03-2025,Office Chair,Furniture,5,46416,232080,54582.97,Debit Card,Chennai,Shipped
+ORD10674,99949856,Michael Martin,28-03-2025,Headphones,Electronics,1,41312,41312,8924.27,Net Banking,Mumbai,Shipped
+ORD10675,99942410,Angel Williams,14-01-2025,Laptop,Electronics,4,7113,28452,10476.65,Net Banking,Hyderabad,Shipped
+ORD10676,99946444,Ross Herrera,21-03-2025,Smart Watch,Electronics,5,58936,294680,63387.26,UPI,Pune,Delivered
+ORD10677,99942593,Laura Pierce,30-04-2025,Coffee Maker,Home Appliances,5,17774,88870,33070.76,Net Banking,Bangalore,Returned
+ORD10678,99946954,Glenda Schwartz,08-03-2025,Coffee Maker,Home Appliances,2,29833,59666,21293.81,Net Banking,Delhi,Cancelled
+ORD10679,99942849,Tracy Taylor,02-05-2025,Running Shoes,Fashion,4,64398,257592,100698.06,Debit Card,Hyderabad,Returned
+ORD10680,99949322,Matthew Clark,02-02-2025,Headphones,Electronics,3,46193,138579,30302.78,Credit Card,Hyderabad,Delivered
+ORD10681,99948552,Sheila Manning,17-05-2025,Running Shoes,Fashion,5,9796,48980,7948.02,Net Banking,Chennai,Returned
+ORD10682,99947288,Nichole Lawson,04-05-2025,Office Chair,Furniture,5,32441,162205,38217.98,Credit Card,Bangalore,Shipped
+ORD10683,99949921,Diana Shaw,29-03-2025,Smart Watch,Electronics,4,57562,230248,52919.43,UPI,Delhi,Delivered
+ORD10684,99946330,David Goodwin,29-04-2025,Smart Watch,Electronics,4,15484,61936,13771.54,Cash on Delivery,Mumbai,Returned
+ORD10685,99947208,Erik Davenport,28-01-2025,Headphones,Electronics,3,53688,161064,61062.21,Debit Card,Hyderabad,Delivered
+ORD10686,99943403,Alexis Sanders,01-01-2025,Smartphone,Electronics,2,18708,37416,5007.07,UPI,Hyderabad,Cancelled
+ORD10687,99946187,Anna Mcgee,22-02-2025,Backpack,Fashion,5,76250,381250,101356.1,Debit Card,Chennai,Cancelled
+ORD10688,99947622,James Taylor,11-05-2025,Backpack,Fashion,3,12203,36609,8243.68,UPI,Kolkata,Cancelled
+ORD10689,99946885,Taylor Woods,01-01-2025,Laptop,Electronics,3,72443,217329,23825.81,Credit Card,Kolkata,Cancelled
+ORD10690,99946212,Stephanie Phillips,11-04-2025,Laptop,Electronics,2,57085,114170,21616.2,Net Banking,Hyderabad,Returned
+ORD10691,99943278,Michelle Wright,02-05-2025,Backpack,Fashion,5,28184,140920,28360.68,UPI,Chennai,Returned
+ORD10692,99943200,Mr. John Santos,02-02-2025,Running Shoes,Fashion,4,20720,82880,25979.46,Credit Card,Mumbai,Delivered
+ORD10693,99942387,John Butler,04-02-2025,Headphones,Electronics,4,57743,230972,24831.22,UPI,Pune,Returned
+ORD10694,99949346,Nicholas Lewis,27-04-2025,Coffee Maker,Home Appliances,5,56297,281485,59963.47,Net Banking,Chennai,Returned
+ORD10695,99949161,Sarah Hawkins,02-01-2025,Backpack,Fashion,3,30088,90264,31074.53,UPI,Pune,Cancelled
+ORD10696,99948917,Matthew Robinson,10-01-2025,Backpack,Fashion,5,76043,380215,110227.75,Debit Card,Mumbai,Returned
+ORD10697,99948617,Scott Smith,13-03-2025,Smartphone,Electronics,2,69497,138994,14584.12,Cash on Delivery,Mumbai,Delivered
+ORD10698,99946119,Molly Duncan,19-05-2025,Office Chair,Furniture,4,10734,42936,8362.98,Cash on Delivery,Mumbai,Cancelled
+ORD10699,99946431,Ashley Watson,01-05-2025,Water Bottle,Accessories,1,61955,61955,16343.08,Net Banking,Bangalore,Cancelled
+ORD10700,99945267,Rachel Wells,19-03-2025,Desk Lamp,Furniture,2,5130,10260,1964.63,Credit Card,Pune,Returned
+ORD10701,99941447,Tracy Salazar,16-03-2025,Smart Watch,Electronics,2,75585,151170,58126.99,Debit Card,Hyderabad,Delivered
+ORD10702,99945129,Sarah Griffith,13-03-2025,Headphones,Electronics,5,10574,52870,7643.23,UPI,Chennai,Cancelled
+ORD10703,99943476,Bridget Odonnell,14-02-2025,Desk Lamp,Furniture,3,2361,7083,1257.74,Net Banking,Bangalore,Shipped
+ORD10704,99941542,William Wong,16-05-2025,Desk Lamp,Furniture,2,64059,128118,44297.73,Debit Card,Mumbai,Shipped
+ORD10705,99947277,Emily Johnson,16-04-2025,Smart Watch,Electronics,2,65504,131008,22817.87,UPI,Pune,Returned
+ORD10706,99941890,Martin Martin,30-03-2025,Headphones,Electronics,2,76227,152454,27394.71,Debit Card,Kolkata,Delivered
+ORD10707,99948803,Christian Fitzgerald,19-03-2025,Laptop,Electronics,2,61319,122638,34384.82,Cash on Delivery,Delhi,Returned
+ORD10708,99941194,Mary Romero,22-04-2025,Backpack,Fashion,4,34922,139688,49792.49,Debit Card,Kolkata,Returned
+ORD10709,99942595,Ricky Brown,11-01-2025,Backpack,Fashion,3,70001,210003,40979.38,Cash on Delivery,Pune,Cancelled
+ORD10710,99942610,Christopher Castro,10-03-2025,Backpack,Fashion,5,36228,181140,54253.2,Debit Card,Pune,Returned
+ORD10711,99946528,Carlos Bennett,14-05-2025,Coffee Maker,Home Appliances,2,77665,155330,26227.6,UPI,Bangalore,Delivered
+ORD10712,99942702,Michaela Rogers,15-05-2025,Laptop,Electronics,1,2067,2067,571.78,Net Banking,Bangalore,Shipped
+ORD10713,99941931,Ian Murray,24-01-2025,Desk Lamp,Furniture,3,25807,77421,30177.74,Cash on Delivery,Pune,Shipped
+ORD10714,99947159,Brittany Bishop,03-02-2025,Smart Watch,Electronics,1,16225,16225,6069.51,Cash on Delivery,Kolkata,Shipped
+ORD10715,99948429,Kayla Rivera,20-01-2025,Smartphone,Electronics,2,33705,67410,21006.94,Debit Card,Kolkata,Returned
+ORD10716,99942022,Eric Thomas,12-03-2025,Running Shoes,Fashion,3,21729,65187,10806.74,Net Banking,Hyderabad,Cancelled
+ORD10717,99949056,Daniel Smith,18-01-2025,Laptop,Electronics,3,35190,105570,36592.8,UPI,Chennai,Returned
+ORD10718,99944578,Javier Bishop,21-04-2025,Headphones,Electronics,4,14712,58848,20999.22,Cash on Delivery,Pune,Delivered
+ORD10719,99945105,Julie Adams,19-01-2025,Coffee Maker,Home Appliances,3,14038,42114,16405.16,Net Banking,Mumbai,Returned
+ORD10720,99943483,Steven Bailey,10-03-2025,Headphones,Electronics,1,5459,5459,1095.18,Debit Card,Hyderabad,Delivered
+ORD10721,99949849,Stephanie Duncan,18-01-2025,Water Bottle,Accessories,4,63170,252680,68017.08,UPI,Mumbai,Returned
+ORD10722,99946463,Susan Charles,02-04-2025,Coffee Maker,Home Appliances,1,74849,74849,17919.51,Debit Card,Hyderabad,Delivered
+ORD10723,99942318,Theodore Davis,29-03-2025,Smartphone,Electronics,3,70574,211722,30487.41,Net Banking,Kolkata,Cancelled
+ORD10724,99944129,Zachary Bush,09-04-2025,Office Chair,Furniture,2,73176,146352,56813.94,Debit Card,Pune,Returned
+ORD10725,99944104,Steven Obrien,23-04-2025,Smartphone,Electronics,3,64266,192798,72210.8,UPI,Mumbai,Shipped
+ORD10726,99949856,William Wagner,17-01-2025,Laptop,Electronics,5,31758,158790,40210.43,Debit Card,Hyderabad,Returned
+ORD10727,99947643,Sarah Woodard,11-01-2025,Laptop,Electronics,1,44970,44970,17231.77,Credit Card,Delhi,Returned
+ORD10728,99941604,Holly Reynolds,19-01-2025,Water Bottle,Accessories,2,76436,152872,50463.7,UPI,Hyderabad,Delivered
+ORD10729,99941235,Jason Caldwell,03-02-2025,Coffee Maker,Home Appliances,5,6503,32515,10638.75,UPI,Pune,Delivered
+ORD10730,99942742,Natalie Henry,17-01-2025,Desk Lamp,Furniture,1,60293,60293,13061.41,Credit Card,Hyderabad,Shipped
+ORD10731,99946312,Patricia Harris,13-04-2025,Smartphone,Electronics,2,56364,112728,33682.8,Credit Card,Pune,Shipped
+ORD10732,99942035,Lisa Mccarthy,27-03-2025,Running Shoes,Fashion,2,6475,12950,2875.86,Credit Card,Bangalore,Shipped
+ORD10733,99944991,David Harris,23-04-2025,Backpack,Fashion,2,48987,97974,22923.73,Cash on Delivery,Mumbai,Shipped
+ORD10734,99948978,Daniel Garcia,05-01-2025,Smartphone,Electronics,5,49800,249000,41508.68,Credit Card,Mumbai,Delivered
+ORD10735,99948798,Patrick Wolfe,17-04-2025,Headphones,Electronics,1,78321,78321,10489.18,UPI,Delhi,Shipped
+ORD10736,99941616,Maria Ingram,14-02-2025,Desk Lamp,Furniture,5,59537,297685,82277.34,Cash on Delivery,Delhi,Returned
+ORD10737,99944860,Susan Knox,02-01-2025,Smart Watch,Electronics,1,39978,39978,11819.25,UPI,Mumbai,Delivered
+ORD10738,99944409,Courtney Anderson,29-04-2025,Smart Watch,Electronics,3,71242,213726,52948,Debit Card,Mumbai,Shipped
+ORD10739,99941706,Mark Taylor,10-02-2025,Smartphone,Electronics,2,62682,125364,31434.46,Credit Card,Pune,Cancelled
+ORD10740,99941709,Peggy Lopez,27-04-2025,Desk Lamp,Furniture,2,57473,114946,37309.8,Credit Card,Pune,Delivered
+ORD10741,99949436,Charles Green MD,05-05-2025,Water Bottle,Accessories,2,21215,42430,6973.47,Credit Card,Mumbai,Shipped
+ORD10742,99946336,Laura Garrett,20-02-2025,Coffee Maker,Home Appliances,5,76490,382450,115579.57,UPI,Kolkata,Delivered
+ORD10743,99944276,Jill Kelly,16-04-2025,Running Shoes,Fashion,2,13353,26706,8782.66,Net Banking,Delhi,Delivered
+ORD10744,99943374,Denise Short,22-04-2025,Coffee Maker,Home Appliances,5,63992,319960,122768.07,UPI,Chennai,Returned
+ORD10745,99946875,Jessica Boyer,19-02-2025,Headphones,Electronics,4,49453,197812,71030.06,Debit Card,Delhi,Cancelled
+ORD10746,99942820,Rebecca Jones,04-02-2025,Headphones,Electronics,1,75036,75036,28671.59,Net Banking,Hyderabad,Returned
+ORD10747,99943784,Sarah Serrano,10-02-2025,Headphones,Electronics,3,29316,87948,11791.83,Cash on Delivery,Chennai,Shipped
+ORD10748,99948757,Kelsey Berg,25-02-2025,Smartphone,Electronics,4,68889,275556,69780.69,Net Banking,Bangalore,Delivered
+ORD10749,99944643,Yolanda Johnson,29-05-2025,Backpack,Fashion,2,32983,65966,19909.28,Cash on Delivery,Delhi,Delivered
+ORD10750,99941550,Robert Taylor,10-05-2025,Backpack,Fashion,1,5750,5750,590.05,Net Banking,Chennai,Returned
+ORD10751,99941203,Mariah Smith,22-01-2025,Coffee Maker,Home Appliances,1,59802,59802,15035.09,Net Banking,Delhi,Shipped
+ORD10752,99941260,Catherine Jones,24-01-2025,Running Shoes,Fashion,3,31834,95502,19645.52,Net Banking,Pune,Cancelled
+ORD10753,99948452,David Powell,07-01-2025,Headphones,Electronics,4,75260,301040,52927.04,Net Banking,Kolkata,Shipped
+ORD10754,99942158,Katie Williamson,01-01-2025,Backpack,Fashion,2,49051,98102,20793.38,Net Banking,Pune,Cancelled
+ORD10755,99949887,William Jones,11-03-2025,Water Bottle,Accessories,1,39374,39374,10718.76,Cash on Delivery,Kolkata,Shipped
+ORD10756,99949433,Shelly Horne,15-01-2025,Smartphone,Electronics,5,44500,222500,39887.97,Debit Card,Mumbai,Delivered
+ORD10757,99947003,Paul Morse,04-04-2025,Backpack,Fashion,3,61494,184482,39527.11,UPI,Pune,Delivered
+ORD10758,99949841,Sarah Sawyer,03-03-2025,Water Bottle,Accessories,2,18641,37282,3937.89,Credit Card,Pune,Returned
+ORD10759,99949250,Samuel Pham,10-03-2025,Smart Watch,Electronics,2,30048,60096,18260.82,Net Banking,Bangalore,Delivered
+ORD10760,99949629,James Taylor,09-05-2025,Smartphone,Electronics,3,45749,137247,36271.2,Credit Card,Hyderabad,Cancelled
+ORD10761,99944085,Bradley Smith,17-01-2025,Coffee Maker,Home Appliances,5,48753,243765,39009.43,Net Banking,Mumbai,Delivered
+ORD10762,99942791,Tara Boyd,20-01-2025,Backpack,Fashion,2,38297,76594,8618.59,UPI,Bangalore,Delivered
+ORD10763,99941371,Emily Davis,14-05-2025,Headphones,Electronics,4,20226,80904,11124.47,Debit Card,Hyderabad,Shipped
+ORD10764,99945776,Scott Ali,06-01-2025,Coffee Maker,Home Appliances,3,55567,166701,44482.83,UPI,Mumbai,Delivered
+ORD10765,99946346,Bryan Carr,29-03-2025,Office Chair,Furniture,5,44524,222620,61552.76,Net Banking,Chennai,Returned
+ORD10766,99943813,Holly Shields,20-03-2025,Coffee Maker,Home Appliances,3,74850,224550,80930.9,Debit Card,Delhi,Returned
+ORD10767,99948469,Andrew Rogers,14-03-2025,Running Shoes,Fashion,3,6702,20106,7147.65,UPI,Chennai,Shipped
+ORD10768,99943641,Billy Wilson,09-02-2025,Water Bottle,Accessories,3,24391,73173,7905.48,UPI,Mumbai,Delivered
+ORD10769,99944022,John Reeves,05-04-2025,Running Shoes,Fashion,5,17077,85385,22860.42,UPI,Chennai,Delivered
+ORD10770,99943663,George Wilson,19-05-2025,Running Shoes,Fashion,3,19891,59673,17193.31,Cash on Delivery,Bangalore,Delivered
+ORD10771,99946246,Jasmine Ross,28-04-2025,Laptop,Electronics,4,65959,263836,44705.57,UPI,Mumbai,Cancelled
+ORD10772,99943409,Troy Smith,27-05-2025,Desk Lamp,Furniture,4,38488,153952,16798.99,Cash on Delivery,Pune,Returned
+ORD10773,99942914,Crystal Foley,05-02-2025,Running Shoes,Fashion,1,63281,63281,8223.22,Debit Card,Mumbai,Returned
+ORD10774,99941901,Lauren Schmidt,25-03-2025,Smart Watch,Electronics,2,58954,117908,34521.33,Cash on Delivery,Pune,Shipped
+ORD10775,99944206,Matthew Williamson,13-03-2025,Smart Watch,Electronics,5,29616,148080,24524.27,Credit Card,Mumbai,Returned
+ORD10776,99949381,Rebecca Heath,23-03-2025,Smartphone,Electronics,5,52197,260985,89169.44,Credit Card,Pune,Cancelled
+ORD10777,99941199,Melissa Dixon,06-04-2025,Backpack,Fashion,2,56551,113102,32699.03,Debit Card,Bangalore,Cancelled
+ORD10778,99947809,Adrienne Nixon,24-04-2025,Desk Lamp,Furniture,4,74035,296140,110673.56,Net Banking,Bangalore,Shipped
+ORD10779,99943353,Andrea Holloway,23-01-2025,Backpack,Fashion,4,18793,75172,11226.68,UPI,Bangalore,Returned
+ORD10780,99942449,Manuel Henderson,07-04-2025,Water Bottle,Accessories,3,9165,27495,3300.89,Credit Card,Hyderabad,Cancelled
+ORD10781,99943243,Tracy Brewer,26-05-2025,Backpack,Fashion,2,73351,146702,38342.62,UPI,Delhi,Returned
+ORD10782,99945979,Tina Cummings,19-03-2025,Desk Lamp,Furniture,5,64802,324010,125498.83,Net Banking,Chennai,Returned
+ORD10783,99948742,David Higgins,18-03-2025,Office Chair,Furniture,1,820,820,290.11,Credit Card,Pune,Cancelled
+ORD10784,99941466,Maria Phillips,04-03-2025,Backpack,Fashion,2,64972,129944,16627.9,Credit Card,Kolkata,Cancelled
+ORD10785,99948872,Ashley Davis,29-05-2025,Coffee Maker,Home Appliances,1,78997,78997,13929.57,Cash on Delivery,Hyderabad,Cancelled
+ORD10786,99941287,Stephanie Mccall,28-05-2025,Coffee Maker,Home Appliances,1,49416,49416,12168.31,Debit Card,Delhi,Delivered
+ORD10787,99946855,Melissa Callahan,04-02-2025,Headphones,Electronics,3,60929,182787,24951.31,UPI,Mumbai,Cancelled
+ORD10788,99949677,Danielle Ramos,16-03-2025,Running Shoes,Fashion,4,47159,188636,72697.58,Credit Card,Chennai,Shipped
+ORD10789,99946285,Taylor Keller,20-05-2025,Headphones,Electronics,1,78980,78980,13759.22,Debit Card,Kolkata,Cancelled
+ORD10790,99943354,Joshua Holmes,01-04-2025,Desk Lamp,Furniture,3,13061,39183,9391.14,Credit Card,Delhi,Cancelled
+ORD10791,99942678,Alexander Perez,11-02-2025,Running Shoes,Fashion,4,54500,218000,64943.52,UPI,Delhi,Shipped
+ORD10792,99942867,Bryan Walker,22-05-2025,Office Chair,Furniture,5,69398,346990,50722.68,Net Banking,Hyderabad,Delivered
+ORD10793,99946940,Jose Robinson,21-03-2025,Smartphone,Electronics,2,2777,5554,1422.63,UPI,Kolkata,Returned
+ORD10794,99941471,Mary Norman,19-03-2025,Smart Watch,Electronics,5,45332,226660,78954.26,Credit Card,Delhi,Shipped
+ORD10795,99942287,Daniel Burton,03-02-2025,Headphones,Electronics,2,40795,81590,29567.95,Net Banking,Pune,Delivered
+ORD10796,99944217,Travis Golden,11-01-2025,Smartphone,Electronics,1,63972,63972,11054.35,Credit Card,Mumbai,Delivered
+ORD10797,99941168,Ryan Holmes,19-03-2025,Coffee Maker,Home Appliances,1,33662,33662,13027.72,Credit Card,Kolkata,Delivered
+ORD10798,99946759,Jason Snyder,17-02-2025,Smart Watch,Electronics,2,77518,155036,20100.04,Credit Card,Mumbai,Shipped
+ORD10799,99944962,Zachary Ellis,09-05-2025,Desk Lamp,Furniture,5,46091,230455,67831.9,Cash on Delivery,Chennai,Delivered
+ORD10800,99945617,Dennis Sanchez II,19-02-2025,Smartphone,Electronics,5,2332,11660,2814.12,UPI,Kolkata,Delivered
+ORD10801,99947004,Steven Kelly,02-05-2025,Smartphone,Electronics,2,66585,133170,19257.84,Cash on Delivery,Delhi,Returned
+ORD10802,99944510,Samantha Clark,19-04-2025,Smartphone,Electronics,2,47007,94014,9928.79,Cash on Delivery,Delhi,Returned
+ORD10803,99943226,Carol Miller,14-05-2025,Smartphone,Electronics,3,16702,50106,13039.06,Net Banking,Kolkata,Cancelled
+ORD10804,99942895,Samantha Dominguez,07-05-2025,Desk Lamp,Furniture,5,5822,29110,10925.73,Net Banking,Bangalore,Returned
+ORD10805,99945761,Barbara Young,15-04-2025,Smart Watch,Electronics,3,58690,176070,58497.14,Net Banking,Delhi,Delivered
+ORD10806,99942723,Kristie Sandoval,06-05-2025,Coffee Maker,Home Appliances,3,24000,72000,28523.83,Net Banking,Hyderabad,Delivered
+ORD10807,99943764,Chelsea Murphy,27-01-2025,Smartphone,Electronics,2,52248,104496,29239.31,Credit Card,Bangalore,Shipped
+ORD10808,99943011,Jamie Brock,14-04-2025,Running Shoes,Fashion,2,78482,156964,23040.93,UPI,Kolkata,Returned
+ORD10809,99946834,Emily Sharp,13-04-2025,Coffee Maker,Home Appliances,3,76773,230319,51108.94,Net Banking,Pune,Returned
+ORD10810,99942770,Thomas Ross,27-04-2025,Coffee Maker,Home Appliances,5,37054,185270,65916.8,Credit Card,Bangalore,Returned
+ORD10811,99942117,Cynthia Wright,14-01-2025,Coffee Maker,Home Appliances,2,18143,36286,14190.84,Net Banking,Pune,Delivered
+ORD10812,99945960,Hayden Sullivan,09-02-2025,Headphones,Electronics,4,79744,318976,62595.43,Cash on Delivery,Chennai,Delivered
+ORD10813,99945809,Robert Young,21-02-2025,Smartphone,Electronics,5,65012,325060,52718.42,Net Banking,Hyderabad,Cancelled
+ORD10814,99948051,Alan Mahoney,09-01-2025,Water Bottle,Accessories,3,71348,214044,50517.38,Credit Card,Hyderabad,Returned
+ORD10815,99943897,Patricia Hall,09-01-2025,Running Shoes,Fashion,4,58506,234024,61338.42,Cash on Delivery,Pune,Cancelled
+ORD10816,99948986,Jared Lowe,10-04-2025,Headphones,Electronics,4,56950,227800,81929.07,Credit Card,Chennai,Returned
+ORD10817,99943560,Joshua James,24-05-2025,Water Bottle,Accessories,5,75500,377500,97793.07,Cash on Delivery,Mumbai,Returned
+ORD10818,99945660,Melissa Miller,01-04-2025,Desk Lamp,Furniture,4,77969,311876,33913.01,Debit Card,Mumbai,Delivered
+ORD10819,99941440,Brittany Hernandez,31-03-2025,Smart Watch,Electronics,1,17303,17303,2576.76,Debit Card,Hyderabad,Delivered
+ORD10820,99945001,Scott Kelly,15-01-2025,Backpack,Fashion,3,47340,142020,39257.33,UPI,Delhi,Cancelled
+ORD10821,99946531,Karen Rowe,30-01-2025,Smart Watch,Electronics,1,9085,9085,1265.7,UPI,Mumbai,Cancelled
+ORD10822,99945368,Henry Mueller,18-04-2025,Laptop,Electronics,4,55874,223496,51311.37,Credit Card,Pune,Returned
+ORD10823,99946282,Kelly Williamson,10-04-2025,Smart Watch,Electronics,1,41986,41986,12036.49,Cash on Delivery,Mumbai,Returned
+ORD10824,99943730,Mark Clark,28-03-2025,Smartphone,Electronics,2,44535,89070,22354.84,Cash on Delivery,Bangalore,Cancelled
+ORD10825,99949779,Marc Bradshaw,20-01-2025,Backpack,Fashion,2,65636,131272,27483.99,UPI,Bangalore,Cancelled
+ORD10826,99942506,Jessica Lewis,27-02-2025,Laptop,Electronics,3,75672,227016,63426.41,Cash on Delivery,Mumbai,Cancelled
+ORD10827,99947997,Erica Young,02-05-2025,Desk Lamp,Furniture,1,74742,74742,11932.13,UPI,Bangalore,Delivered
+ORD10828,99946133,Adam Perez,19-05-2025,Desk Lamp,Furniture,5,39809,199045,53767.4,UPI,Hyderabad,Returned
+ORD10829,99943958,Amanda Smith,21-05-2025,Desk Lamp,Furniture,5,68050,340250,89836.69,Credit Card,Pune,Shipped
+ORD10830,99945389,Stephanie Bridges,30-04-2025,Smart Watch,Electronics,4,28412,113648,22929.41,Cash on Delivery,Kolkata,Returned
+ORD10831,99943420,Nicole Smith,29-04-2025,Smart Watch,Electronics,1,68954,68954,23430.95,UPI,Delhi,Cancelled
+ORD10832,99944335,Mary Roberts,17-01-2025,Backpack,Fashion,4,42266,169064,23997.66,Net Banking,Bangalore,Cancelled
+ORD10833,99942860,Matthew Mason,03-03-2025,Headphones,Electronics,3,79304,237912,78311.36,UPI,Delhi,Delivered
+ORD10834,99947914,Maria Campos MD,22-04-2025,Office Chair,Furniture,3,61338,184014,46810.46,Credit Card,Delhi,Shipped
+ORD10835,99943883,Dennis Oliver,13-03-2025,Desk Lamp,Furniture,2,4319,8638,2785.59,Credit Card,Pune,Returned
+ORD10836,99942041,Javier Zimmerman,18-03-2025,Laptop,Electronics,1,11500,11500,3517.03,Net Banking,Bangalore,Delivered
+ORD10837,99942976,Jonathan Brown,09-05-2025,Backpack,Fashion,2,31438,62876,23039.04,Cash on Delivery,Pune,Cancelled
+ORD10838,99946395,Michael Shaw,22-03-2025,Coffee Maker,Home Appliances,1,31705,31705,6976.8,Cash on Delivery,Pune,Returned
+ORD10839,99944507,Sharon Lee,14-02-2025,Office Chair,Furniture,4,29074,116296,41484.72,Debit Card,Hyderabad,Returned
+ORD10840,99942850,Brandy Phillips,06-04-2025,Desk Lamp,Furniture,5,7830,39150,9900.74,Debit Card,Chennai,Returned
+ORD10841,99946947,Laura Abbott,07-02-2025,Coffee Maker,Home Appliances,2,36903,73806,10050.16,Net Banking,Pune,Cancelled
+ORD10842,99944926,Stephanie Hart,14-01-2025,Desk Lamp,Furniture,1,79905,79905,31127.57,Debit Card,Chennai,Returned
+ORD10843,99948248,Veronica Munoz,02-03-2025,Desk Lamp,Furniture,3,16497,49491,11854.42,Net Banking,Mumbai,Returned
+ORD10844,99945872,Heather Moyer,02-03-2025,Desk Lamp,Furniture,3,12329,36987,4405.27,UPI,Kolkata,Shipped
+ORD10845,99942312,Tony Jackson,12-03-2025,Coffee Maker,Home Appliances,3,53753,161259,26318.24,Net Banking,Hyderabad,Returned
+ORD10846,99949295,Andre Baker,08-03-2025,Running Shoes,Fashion,4,13659,54636,8341.81,Credit Card,Bangalore,Returned
+ORD10847,99941853,Megan Jones,08-01-2025,Smart Watch,Electronics,5,43330,216650,57200.25,UPI,Pune,Returned
+ORD10848,99946140,Nancy Schaefer,20-03-2025,Headphones,Electronics,1,53015,53015,18023.9,Cash on Delivery,Mumbai,Delivered
+ORD10849,99947722,Erin Aguilar,03-02-2025,Headphones,Electronics,2,68181,136362,25353.9,Debit Card,Hyderabad,Returned
+ORD10850,99945616,Oscar Willis,25-03-2025,Headphones,Electronics,3,23238,69714,13507.78,UPI,Mumbai,Returned
+ORD10851,99944677,Aaron Reyes,27-05-2025,Running Shoes,Fashion,2,52076,104152,14277.47,Credit Card,Mumbai,Shipped
+ORD10852,99941815,Jennifer Black,13-02-2025,Smartphone,Electronics,4,26487,105948,34058.58,Net Banking,Chennai,Returned
+ORD10853,99943787,Jessica Rice,05-04-2025,Smart Watch,Electronics,3,20062,60186,22466.33,Cash on Delivery,Mumbai,Delivered
+ORD10854,99942941,Robert Horn,07-05-2025,Water Bottle,Accessories,4,59968,239872,36418.03,UPI,Pune,Shipped
+ORD10855,99943133,Danielle Bauer,08-04-2025,Office Chair,Furniture,3,38243,114729,20200,Net Banking,Kolkata,Shipped
+ORD10856,99947853,Randy Jennings,18-02-2025,Smart Watch,Electronics,2,37589,75178,13681.46,UPI,Hyderabad,Shipped
+ORD10857,99945068,Shelly Acevedo,26-04-2025,Laptop,Electronics,3,34814,104442,34398.42,Debit Card,Chennai,Returned
+ORD10858,99947513,Devon Martinez,24-03-2025,Smartphone,Electronics,1,61957,61957,22306.91,UPI,Pune,Returned
+ORD10859,99941962,Lynn Larson,23-05-2025,Backpack,Fashion,5,34084,170420,64432.96,Credit Card,Bangalore,Shipped
+ORD10860,99941087,Brett Gutierrez,12-01-2025,Coffee Maker,Home Appliances,3,79978,239934,28361.02,Debit Card,Chennai,Returned
+ORD10861,99941673,Victor Palmer,24-05-2025,Desk Lamp,Furniture,4,49114,196456,70788.7,Cash on Delivery,Delhi,Cancelled
+ORD10862,99943161,Brooke Jarvis,30-04-2025,Headphones,Electronics,5,65097,325485,39351.76,Credit Card,Bangalore,Returned
+ORD10863,99949179,Daniel Perez,02-02-2025,Headphones,Electronics,3,15814,47442,14518.16,Debit Card,Pune,Cancelled
+ORD10864,99949470,Jasmin Campbell,09-03-2025,Backpack,Fashion,3,35000,105000,22692.66,Debit Card,Hyderabad,Shipped
+ORD10865,99941871,Isabella Ramos,23-04-2025,Running Shoes,Fashion,4,20326,81304,18968.03,UPI,Delhi,Delivered
+ORD10866,99948653,Victoria Clark,11-02-2025,Office Chair,Furniture,2,5200,10400,2692.83,Net Banking,Mumbai,Returned
+ORD10867,99948949,Kyle Hicks,24-05-2025,Laptop,Electronics,4,47229,188916,19525.3,Net Banking,Hyderabad,Delivered
+ORD10868,99943959,Drew Bullock,14-03-2025,Headphones,Electronics,1,46323,46323,17228.76,UPI,Pune,Cancelled
+ORD10869,99949618,Steven Mayo,02-01-2025,Smart Watch,Electronics,5,28339,141695,31872.28,Cash on Delivery,Delhi,Returned
+ORD10870,99941425,Jack Smith,26-03-2025,Smartphone,Electronics,2,65788,131576,25910.93,Debit Card,Pune,Delivered
+ORD10871,99946300,Sarah Miller,28-01-2025,Backpack,Fashion,3,77876,233628,28328.67,UPI,Mumbai,Delivered
+ORD10872,99941095,Julia Hayes,10-03-2025,Coffee Maker,Home Appliances,4,60013,240052,50769.31,Debit Card,Mumbai,Returned
+ORD10873,99945635,Carlos Christensen,13-01-2025,Running Shoes,Fashion,5,17450,87250,29367.47,Debit Card,Kolkata,Delivered
+ORD10874,99945180,Dr. Caroline Neal DDS,13-04-2025,Smartphone,Electronics,5,79443,397215,113437.74,UPI,Delhi,Returned
+ORD10875,99945668,Kristy Graham,14-04-2025,Smartphone,Electronics,1,27792,27792,9758.27,UPI,Mumbai,Cancelled
+ORD10876,99946882,Caleb Wilson,03-02-2025,Coffee Maker,Home Appliances,4,41145,164580,21211.02,Credit Card,Kolkata,Cancelled
+ORD10877,99948805,Jason Farmer,10-04-2025,Water Bottle,Accessories,2,64675,129350,34454.61,Debit Card,Chennai,Returned
+ORD10878,99947979,Jessica Brown,22-04-2025,Smartphone,Electronics,4,48765,195060,42101.69,Credit Card,Mumbai,Cancelled
+ORD10879,99949596,Lisa Taylor,15-05-2025,Coffee Maker,Home Appliances,2,20825,41650,5031.31,Credit Card,Bangalore,Returned
+ORD10880,99945921,Margaret Schultz,02-02-2025,Backpack,Fashion,1,63101,63101,19553.87,UPI,Chennai,Returned
+ORD10881,99949411,Alexander Johnson,12-01-2025,Desk Lamp,Furniture,5,6755,33775,7927.05,Credit Card,Chennai,Returned
+ORD10882,99945151,Jim Dickson,26-05-2025,Backpack,Fashion,1,61403,61403,12387.65,Debit Card,Bangalore,Delivered
+ORD10883,99943941,Amanda Kelley,29-04-2025,Water Bottle,Accessories,1,15433,15433,2744.68,UPI,Kolkata,Returned
+ORD10884,99946143,Kathleen Clark,18-03-2025,Laptop,Electronics,1,55058,55058,7541.48,Cash on Delivery,Pune,Returned
+ORD10885,99944458,Katrina Wood,17-02-2025,Coffee Maker,Home Appliances,5,35243,176215,52441.53,UPI,Mumbai,Cancelled
+ORD10886,99942911,Terry Garner,12-04-2025,Smartphone,Electronics,4,70541,282164,111349.09,Credit Card,Delhi,Returned
+ORD10887,99946910,Pamela Bird,19-03-2025,Coffee Maker,Home Appliances,4,79390,317560,57867.87,Net Banking,Kolkata,Cancelled
+ORD10888,99941260,Ricky Carter,29-01-2025,Smartphone,Electronics,2,18209,36418,14415.6,UPI,Kolkata,Delivered
+ORD10889,99949824,Eric Ramirez,22-04-2025,Office Chair,Furniture,4,19525,78100,16016.6,UPI,Mumbai,Cancelled
+ORD10890,99943721,David Acevedo,30-01-2025,Coffee Maker,Home Appliances,2,62626,125252,34248.44,UPI,Pune,Returned
+ORD10891,99944975,Michael Marks,30-05-2025,Coffee Maker,Home Appliances,4,3072,12288,1745.65,UPI,Bangalore,Returned
+ORD10892,99947810,Nicole Faulkner,21-04-2025,Laptop,Electronics,3,1532,4596,1696.85,Net Banking,Pune,Cancelled
+ORD10893,99944799,Sheila Hurst,05-05-2025,Laptop,Electronics,4,52886,211544,53768.08,Credit Card,Chennai,Delivered
+ORD10894,99947834,Jose Mcguire,10-03-2025,Backpack,Fashion,5,41899,209495,49026.71,Net Banking,Mumbai,Returned
+ORD10895,99943643,Antonio Williams,06-01-2025,Smart Watch,Electronics,3,59262,177786,33911.91,Debit Card,Pune,Shipped
+ORD10896,99946556,Maria Simpson,26-02-2025,Coffee Maker,Home Appliances,3,57924,173772,57408.89,Cash on Delivery,Kolkata,Returned
+ORD10897,99948738,Diana Marshall,03-04-2025,Headphones,Electronics,3,51666,154998,17368.92,UPI,Chennai,Shipped
+ORD10898,99943561,Larry Barrett,21-02-2025,Desk Lamp,Furniture,1,63793,63793,23046.56,Cash on Delivery,Hyderabad,Delivered
+ORD10899,99941770,David Ortiz,23-05-2025,Backpack,Fashion,4,40300,161200,53128.99,Credit Card,Bangalore,Cancelled
+ORD10900,99941523,Brenda Todd,09-05-2025,Running Shoes,Fashion,2,23400,46800,7095.6,Credit Card,Bangalore,Returned
+ORD10901,99948968,Emily Barrett,27-02-2025,Smartphone,Electronics,5,30212,151060,54954.66,Debit Card,Bangalore,Cancelled
+ORD10902,99942706,William Hess,12-05-2025,Laptop,Electronics,5,35560,177800,23310.41,Credit Card,Hyderabad,Returned
+ORD10903,99949311,Diana James,11-01-2025,Smartphone,Electronics,1,13852,13852,2118.21,Credit Card,Delhi,Delivered
+ORD10904,99949288,Abigail Martin,24-04-2025,Office Chair,Furniture,3,21082,63246,11478.85,Net Banking,Pune,Delivered
+ORD10905,99944307,Eric Cole,01-02-2025,Headphones,Electronics,3,44357,133071,20526.44,Net Banking,Hyderabad,Delivered
+ORD10906,99942396,Kristina Nelson,13-02-2025,Office Chair,Furniture,4,45237,180948,56812.7,Debit Card,Bangalore,Returned
+ORD10907,99947909,Anthony Allen,16-05-2025,Running Shoes,Fashion,2,20371,40742,7090.66,UPI,Delhi,Returned
+ORD10908,99946927,Bruce Hawkins,13-05-2025,Backpack,Fashion,4,60629,242516,27755.43,Credit Card,Hyderabad,Shipped
+ORD10909,99947580,Amanda Little,22-03-2025,Laptop,Electronics,5,9620,48100,18016.65,UPI,Hyderabad,Delivered
+ORD10910,99949516,Michael Rios,15-01-2025,Backpack,Fashion,1,20285,20285,2621.77,Debit Card,Hyderabad,Returned
+ORD10911,99945583,Whitney Myers,03-01-2025,Water Bottle,Accessories,3,41616,124848,15884.5,Cash on Delivery,Chennai,Shipped
+ORD10912,99946656,Chelsea Nunez,24-04-2025,Backpack,Fashion,4,27387,109548,14649.42,Net Banking,Kolkata,Shipped
+ORD10913,99943064,Michael Alvarado,10-04-2025,Desk Lamp,Furniture,1,5345,5345,1276.23,Cash on Delivery,Chennai,Cancelled
+ORD10914,99946582,Paul Johnston,14-05-2025,Office Chair,Furniture,1,67565,67565,15841.58,UPI,Mumbai,Delivered
+ORD10915,99947926,Andrew Rodriguez,19-03-2025,Water Bottle,Accessories,5,34407,172035,56358.33,Cash on Delivery,Mumbai,Delivered
+ORD10916,99943043,Erin Snyder,13-01-2025,Running Shoes,Fashion,3,67018,201054,59041.11,Net Banking,Bangalore,Delivered
+ORD10917,99949737,Michael Mccormick,29-05-2025,Coffee Maker,Home Appliances,3,31445,94335,14941.13,Cash on Delivery,Delhi,Cancelled
+ORD10918,99949514,Dana Edwards,07-04-2025,Desk Lamp,Furniture,3,75573,226719,44951.54,UPI,Mumbai,Cancelled
+ORD10919,99948443,Patricia Thomas,03-04-2025,Water Bottle,Accessories,5,25738,128690,19708.51,Credit Card,Delhi,Returned
+ORD10920,99948802,Jennifer Gomez,03-02-2025,Backpack,Fashion,1,12591,12591,4801.48,UPI,Hyderabad,Delivered
+ORD10921,99947468,Ashley Marshall,13-05-2025,Running Shoes,Fashion,5,53289,266445,59557.96,Debit Card,Chennai,Returned
+ORD10922,99943668,Stefanie Flynn,17-04-2025,Backpack,Fashion,4,64665,258660,46684.23,UPI,Chennai,Shipped
+ORD10923,99949669,Shelia Huber,12-05-2025,Coffee Maker,Home Appliances,4,17458,69832,7652.92,Credit Card,Pune,Shipped
+ORD10924,99947051,Linda Davis,24-05-2025,Coffee Maker,Home Appliances,4,4773,19092,3361.17,Credit Card,Chennai,Returned
+ORD10925,99949565,Alex Finley,11-01-2025,Smartphone,Electronics,1,48942,48942,11181.81,UPI,Mumbai,Cancelled
+ORD10926,99943340,John Holmes,08-01-2025,Desk Lamp,Furniture,3,40248,120744,37648.66,UPI,Kolkata,Returned
+ORD10927,99941034,Zachary Martin,06-05-2025,Laptop,Electronics,3,37656,112968,37881.06,Credit Card,Chennai,Cancelled
+ORD10928,99948411,Blake Davis,21-03-2025,Smartphone,Electronics,1,55232,55232,14119.9,Debit Card,Kolkata,Returned
+ORD10929,99948551,Charles Nguyen,10-05-2025,Coffee Maker,Home Appliances,5,17907,89535,15347.61,Net Banking,Pune,Returned
+ORD10930,99947344,Kristy Griffin,15-04-2025,Headphones,Electronics,3,12206,36618,5860.95,UPI,Hyderabad,Cancelled
+ORD10931,99943713,Bonnie Hardy,23-01-2025,Water Bottle,Accessories,1,58577,58577,10498.53,Credit Card,Chennai,Cancelled
+ORD10932,99941866,Jennifer Lewis,19-05-2025,Water Bottle,Accessories,1,73815,73815,27640.35,Cash on Delivery,Chennai,Shipped
+ORD10933,99943944,Ronald Watts,17-05-2025,Coffee Maker,Home Appliances,5,2946,14730,5360.47,Credit Card,Bangalore,Shipped
+ORD10934,99946249,Anne Gray,17-05-2025,Office Chair,Furniture,5,58726,293630,109995.45,Net Banking,Chennai,Delivered
+ORD10935,99941394,Dr. Kari Henderson,17-04-2025,Coffee Maker,Home Appliances,1,45058,45058,12115.86,Cash on Delivery,Bangalore,Returned
+ORD10936,99943755,Leah Hawkins,19-05-2025,Desk Lamp,Furniture,1,15526,15526,1646.75,Debit Card,Delhi,Shipped
+ORD10936,99943755,Leah Hawkins,19-05-2025,Desk Lamp,Furniture,1,15526,15526,1646.75,Debit Card,Delhi,Shipped
+ORD10938,99946243,Thomas Jones,26-01-2025,Headphones,Electronics,1,8167,8167,2536.61,UPI,Hyderabad,Cancelled
+ORD10939,99944874,Anthony Harvey,03-03-2025,Desk Lamp,Furniture,4,16355,65420,25149.84,Net Banking,Chennai,Returned
+ORD10940,99947669,Don Leon,22-05-2025,Smartphone,Electronics,3,8447,25341,7716.31,Credit Card,Hyderabad,Delivered
+ORD10941,99942663,Gregory Harris,31-05-2025,Backpack,Fashion,2,2940,5880,1877.2,UPI,Kolkata,Shipped
+ORD10942,99944333,David Flores,09-05-2025,Desk Lamp,Furniture,5,53813,269065,71626.54,UPI,Bangalore,Shipped
+ORD10943,99948401,Joyce Obrien,23-05-2025,Office Chair,Furniture,5,56042,280210,31269.86,Credit Card,Mumbai,Returned
+ORD10944,99945477,Mr. Adam Arellano DDS,04-05-2025,Smart Watch,Electronics,3,22439,67317,26915.84,Cash on Delivery,Bangalore,Returned
+ORD10945,99941745,Wyatt Pineda,14-03-2025,Running Shoes,Fashion,2,77197,154394,22818.62,UPI,Pune,Delivered
+ORD10946,99945578,Brittney Shah,05-02-2025,Desk Lamp,Furniture,1,52313,52313,9964.12,Net Banking,Delhi,Cancelled
+ORD10947,99946597,Emma Anderson,24-03-2025,Running Shoes,Fashion,3,59838,179514,57102.7,UPI,Hyderabad,Cancelled
+ORD10948,99941156,Jonathan Edwards,02-01-2025,Laptop,Electronics,2,768,1536,333.87,UPI,Hyderabad,Returned
+ORD10949,99949825,Steven Nelson,20-01-2025,Backpack,Fashion,5,11136,55680,9120.85,Credit Card,Kolkata,Returned
+ORD10950,99947336,Shannon Jennings,02-04-2025,Smartphone,Electronics,3,49832,149496,22687.51,UPI,Kolkata,Delivered
+ORD10951,99941153,Mary Carter,24-04-2025,Smartphone,Electronics,4,49059,196236,23376.74,UPI,Pune,Delivered
+ORD10952,99944623,Nicholas Green,19-03-2025,Desk Lamp,Furniture,3,25601,76803,28648.29,UPI,Hyderabad,Cancelled
+ORD10953,99941116,Noah Taylor,23-02-2025,Laptop,Electronics,3,65097,195291,25123.74,UPI,Kolkata,Returned
+ORD10954,99944174,Jessica Stephens,13-02-2025,Smartphone,Electronics,3,75093,225279,56297.74,Cash on Delivery,Pune,Shipped
+ORD10955,99945253,Paul Larsen,02-02-2025,Smartphone,Electronics,5,17309,86545,15249.92,Cash on Delivery,Kolkata,Shipped
+ORD10956,99949731,Lisa Robinson,06-01-2025,Water Bottle,Accessories,3,25646,76938,11209.85,Cash on Delivery,Bangalore,Returned
+ORD10957,99948086,Kristen Thompson,24-03-2025,Laptop,Electronics,4,7297,29188,4198.46,Net Banking,Bangalore,Delivered
+ORD10958,99944678,Matthew Wallace,12-01-2025,Water Bottle,Accessories,4,65455,261820,76335.83,Credit Card,Bangalore,Returned
+ORD10959,99946483,Tracy Gomez,19-02-2025,Water Bottle,Accessories,4,41950,167800,66860.28,Credit Card,Chennai,Delivered
+ORD10960,99943694,Tricia Gardner,20-02-2025,Office Chair,Furniture,4,10257,41028,5124.46,Debit Card,Bangalore,Delivered
+ORD10961,99946477,Emily Ramirez,07-01-2025,Smartphone,Electronics,1,63410,63410,17147.04,Debit Card,Delhi,Delivered
+ORD10962,99949514,Maria Bryant,27-03-2025,Coffee Maker,Home Appliances,2,45169,90338,13572.81,UPI,Mumbai,Returned
+ORD10963,99941546,Charles Hernandez,16-01-2025,Smartphone,Electronics,4,76382,305528,110769.81,Net Banking,Bangalore,Delivered
+ORD10964,99942077,Thomas Johnston,21-04-2025,Headphones,Electronics,1,58423,58423,22408.92,Credit Card,Pune,Delivered
+ORD10965,99942570,Richard Robinson,13-04-2025,Water Bottle,Accessories,1,39155,39155,5678.31,Cash on Delivery,Kolkata,Returned
+ORD10966,99948014,Jason Tate,29-04-2025,Office Chair,Furniture,5,1890,9450,2494.58,Cash on Delivery,Chennai,Delivered
+ORD10967,99944153,Mrs. Sarah Murray,31-05-2025,Running Shoes,Fashion,1,60016,60016,14694.09,Credit Card,Mumbai,Delivered
+ORD10968,99943064,Larry Phillips,19-02-2025,Smart Watch,Electronics,1,78210,78210,12761.92,Cash on Delivery,Bangalore,Cancelled
+ORD10969,99941722,Tiffany Davis,05-02-2025,Backpack,Fashion,4,58777,235108,80929.58,Credit Card,Delhi,Cancelled
+ORD10970,99946098,Joseph Cline,02-04-2025,Smart Watch,Electronics,4,67756,271024,30375.72,Cash on Delivery,Chennai,Shipped
+ORD10971,99947042,Jennifer Mays,16-03-2025,Headphones,Electronics,4,40958,163832,35879.4,Credit Card,Chennai,Shipped
+ORD10972,99941894,Mrs. Jennifer Dominguez,24-05-2025,Laptop,Electronics,2,66967,133934,20658.63,Net Banking,Bangalore,Shipped
+ORD10973,99948657,Mrs. Danielle Mcmahon,02-05-2025,Office Chair,Furniture,2,9465,18930,5632.33,Cash on Delivery,Pune,Cancelled
+ORD10974,99946384,Keith Jones,18-04-2025,Smart Watch,Electronics,5,44495,222475,47869.74,UPI,Mumbai,Returned
+ORD10975,99944772,Eric Alexander,27-02-2025,Laptop,Electronics,4,29257,117028,14513.1,Net Banking,Chennai,Shipped
+ORD10976,99944363,Michael Baker,07-04-2025,Office Chair,Furniture,4,43952,175808,27745.77,Net Banking,Delhi,Delivered
+ORD10977,99942887,Jordan Strong,23-05-2025,Running Shoes,Fashion,1,10164,10164,2974.33,UPI,Bangalore,Returned
+ORD10978,99944262,Timothy Adams,08-01-2025,Office Chair,Furniture,5,47674,238370,92208.32,UPI,Bangalore,Shipped
+ORD10979,99945029,,22-05-2025,Office Chair,Furniture,3,23343,70029,20872.48,UPI,Delhi,Delivered
+ORD10980,99947208,Stephanie Johnson,05-02-2025,Headphones,Electronics,3,13763,41289,16255.56,Credit Card,Bangalore,Shipped
+ORD10981,99943807,Carmen Hines,06-04-2025,Desk Lamp,Furniture,4,31976,127904,36978.04,Cash on Delivery,Kolkata,Returned
+ORD10982,99944107,Erin Palmer,03-02-2025,Smartphone,Electronics,1,19431,19431,2626.74,UPI,Chennai,Returned
+ORD10983,99941756,Holly Spencer,04-03-2025,Running Shoes,Fashion,3,79084,237252,64328.02,Cash on Delivery,Chennai,Shipped
+ORD10984,99945588,Kathryn Smith,14-01-2025,Water Bottle,Accessories,3,19972,59916,18076.41,UPI,Kolkata,Returned
+ORD10985,99943743,Jamie Carey,17-01-2025,Office Chair,Furniture,1,62191,62191,10118.53,Cash on Delivery,Hyderabad,Cancelled
+ORD10986,99949609,Richard Butler,06-04-2025,Coffee Maker,Home Appliances,5,61352,306760,106231.12,Net Banking,Pune,Returned
+ORD10987,99941599,Kevin Peterson,30-05-2025,Coffee Maker,Home Appliances,3,76677,230031,64343.39,UPI,Delhi,Shipped
+ORD10988,99947178,Kyle Taylor,19-04-2025,Coffee Maker,Home Appliances,2,52391,104782,35041.39,Cash on Delivery,Delhi,Cancelled
+ORD10989,99945834,Ashlee Conrad,22-01-2025,Desk Lamp,Furniture,5,11609,58045,20878.84,Net Banking,Chennai,Cancelled
+ORD10990,99947981,Gail Levy,28-03-2025,Office Chair,Furniture,5,5892,29460,7672.09,Net Banking,Hyderabad,Returned
+ORD10991,99941404,David Lloyd,08-04-2025,Backpack,Fashion,3,65713,197139,60106.47,UPI,Hyderabad,Shipped
+ORD10992,99949220,Joshua Brown,17-03-2025,Desk Lamp,Furniture,1,47567,47567,6162.65,Cash on Delivery,Chennai,Delivered
+ORD10993,99941627,Paul Washington,03-04-2025,Desk Lamp,Furniture,2,13398,26796,9765.1,Cash on Delivery,Delhi,Cancelled
+ORD10994,99944123,Eric Hamilton,12-03-2025,Office Chair,Furniture,3,33271,99813,30860.71,Cash on Delivery,Delhi,Cancelled
+ORD10995,99947647,Tamara Sparks,14-04-2025,Laptop,Electronics,3,37442,112326,17220.4,Cash on Delivery,Kolkata,Delivered
+ORD10996,99944717,Ellen Wells,28-02-2025,Coffee Maker,Home Appliances,5,20066,100330,14082.34,UPI,Hyderabad,Shipped
+ORD10996,99944717,Ellen Wells,28-02-2025,Coffee Maker,Home Appliances,5,20066,100330,14082.34,UPI,Hyderabad,Shipped
+ORD10998,99941493,Susan Ramirez,23-05-2025,Backpack,Fashion,4,27970,111880,30028.12,Debit Card,Delhi,Shipped
+ORD10999,99946567,Chad Jacobs,01-04-2025,Desk Lamp,Furniture,1,66009,66009,10355.46,UPI,Hyderabad,Returned
+ORD10999,99946567,Chad Jacobs,01-04-2025,Desk Lamp,Furniture,1,66009,66009,10355.46,UPI,Hyderabad,Returned
