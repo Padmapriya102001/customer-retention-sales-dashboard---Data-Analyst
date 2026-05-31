@@ -42,3 +42,4 @@ This project analyzes customer behavior, sales trends, product performance, and 
 
 ## Dashboard Preview
 
+![Dashboard](Dashboard.png)
